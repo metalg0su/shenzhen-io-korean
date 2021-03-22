@@ -1,13 +1,13 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *power-0*, *power-1*, and *power-2* are simple outputs connected to high-power switches that control industrial equipment.
-* When a data packet is received over the *radio*, read it and execute the corresponding command in the following table:
+* *무선-rx*는 무선 수신기에 연결된 논블록킹 XBus 입력입니다.
+* *전원-0*, *전원-1*, *전원-2*는 각각 산업 장비를 제어하는 고출력 스위치에 연결된 단순 출력입니다.
+* 데이터 패킷이 *무선 장비*로 수신되면, 패킷을 읽고 다음 표에 나타난 명령을 수행하세요:
 
 ##############
 
-| -1 | keep alive | do nothing
+| -1 | 유지 | 아무 것도 하지 않습니다
 -------------------------------------------------------------
-| 0  | power off  | read another value and turn off that output
+| 0  | 전원 끔 | 다음 값을 읽고 해당 출력을 차단합니다
 -------------------------------------------------------------
-| 1  | power on   | read another value and turn on that output
+| 1  | 전원 켬 | 다음 값을 읽고 해당 출력을 활성화합니다
 
-* Turn off all *power* outputs when 5 or more time units have elapsed without receiving a data packet.
+* 단위 시간으로 5회 이상 데이터 패킷이 수신되지 않으면 모든 *전원* 출력을 차단하세요.
