@@ -1,3 +1,3 @@
-* *click-0* and *click-1* are simple outputs connected to display segments corresponding to a clicking animation.
-* *drink-0*, *drink-1*, and *drink-2* are simple outputs connected to display segments corresponding to a drinking animation.
-* Control the display segments with fixed, repeating signals as indicated in the verification tab.
+* *클릭-0*과 *클릭-1*은 단순 출력으로, 세그먼트에 따라 클릭하는 애니메이션 디스플레이에 연결되어 있습니다.
+* *음료-0*, *음료-1*, *음료-2*는 단순 출력으로, 세그먼트에 따라 음료를 마시는 애니메이션 디스플레이에 연결되어 있습니다.
+* 검증 표를 보고, 일정하게 반복되는 신호를 발생시켜 세그먼트 디스플레이를 제어하세요.
