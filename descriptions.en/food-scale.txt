@@ -1,10 +1,10 @@
-* *weight* is a simple input connected to an electromechanical scale calibrated for grams.
-* *button* is a simple input connected to a power / zero button.
-* *display* is an XBus display output corresponding to a numeric LCD screen.
-* The scale is initially "off", but can be "turned on" by pressing the *button*.
-* While the scale is "on", the *display* should be updated with the measured *weight*.
+* *무게*는 단순 입력으로, 그램으로 출력하는 전자 기계 저울에 연결되어 있습니다.
+* *버튼*은 전원 / 영점 버튼에 연결된 단순 입력입니다.
+* *디스플레이*는 XBus 디스플레이 출력으로, 해당하는 수치를 LCD 화면에 표시합니다.
+* 저울은 초기에 "꺼짐" 상태지만, *버튼*을 눌러서 "켜짐" 상태가 될 수 있습니다.
+* 저울이 "켜짐" 상태라면, 측정된 *무게*가 *디스플레이*에 업데이트되어야 합니다.
 
 ##############
 
-* If the *display* is showing a value other than 0 when the *button* is pushed, the scale should zero itself so that the current displayed *weight* is 0.
-* If the *display* is showing a value of 0 when the *button* is pushed, the scale should "turn off" and clear the *display* by sending it the value -999.
+* *버튼*이 눌렸을 때 *디스플레이*가 0이 아닌 값을 표시하고 있다면, 현재 *무게*가 0이 될 수 있도록 지금 무게를 0으로 표시합니다.
+* *버튼*이 눌렸을 때 *디스플레이*가 0을 표시하고 있다면, 저울은 "꺼짐" 상태가 되어야 하며 -999 값을 *디스플레이*에 보내 화면을 꺼야 합니다.
