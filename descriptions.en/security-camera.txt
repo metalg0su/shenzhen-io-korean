@@ -1,2 +1,2 @@
-* *active* and *network* are simple outputs connected to LEDs.
-* Control the *active* and *network* outputs with fixed, repeating signals as indicated in the verification tab.
+* *활성화*와 *네트워크*는 LED에 연결된 단순 출력입니다. 
+* 검증 표에 나타난 대로 일정하게 반복되는 *활성화*와 *네트워크*의 출력을 만드세요.
