@@ -1,11 +1,11 @@
-* *card-reader* is an XBus input connected to an RFID card reader.
-* *learn* is a simple input connected to a button inside the room.
-* *unlock* is a simple output connected to an electric strike plate.
-* The door is first *unlocked* by the hotel staff using a special *card* (9999999999).
-* The user can then reprogram their lock by holding the *learn* button and scanning their *card*.
+* *카드-리더*는 RFID 카드 리더기에 연결된 XBus 입력입니다.
+* *기억*은 방 안쪽에 있는 버튼에 연결된 단순 입력입니다.
+* *열림*는 도어락에 연결된 단순 출력입니다.
+* 문은 처음에 호텔 직원이 특수 *카드* (9999999999)를 이용해 *열린* 상태가 됩니다.
+* 그 뒤, 사용자는 *기억* 버튼을 누른 상태로 자신의 *카드*를 읽게 하여 잠금 장치를 재설정할 수 있습니다.
 
 ##############
 
-* When the user scans their *card* again after reprogramming, the door should be *unlocked*.
-* Any *card* other than the user's *card* or the hotel staff *card* should not *unlock* the door.
-* To *unlock* the door, the *unlock* signal should be held high for 6 time units.
+* 사용자가 재설정한 뒤에 자신의 *카드*를 다시 대면, 문은 *열린* 상태가 되어야 합니다.
+* 사용자의 *카드* 또는 호텔 직원 *카드* 이외의 카드라면 문은 *열린* 상태가 되어선 안됩니다.
+* 문을 *열림* 상태로 만드려면, 6 단위 시간 동안 *열림* 신호를 출력하세요.
