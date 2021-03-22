@@ -1,8 +1,8 @@
-* *in-1*, *in-5*, and *in-12* are simple inputs connected to a mechanism that accepts and detects 1 銖, 5 銖, and 12 銖 tokens.
-* *bell* is a simple output connected to a solenoid that rings a small bell when triggered.
-* *out-1* and *out-5* are simple outputs connected to a mechanism that dispenses 1 銖 and 5 銖 tokens as change.
-* After a sufficient number of coins have been inserted, the payment kiosk should ring the *bell* and dispense change as indicated in the verification tab.
+* *입력-1*, *입력-5*, *입력-12*는 단순 입력으로, 1 銖, 5 銖, 12 銖 동전이 삽입되면 감지할 수 있는 장치에 연결되어 있습니다.
+* *종*은 원통형 코일에 연결된 단순 출력으로, 활성화되면 작은 종을 울립니다.
+* *출력-1*과 *출력-5*는 단순 출력으로, 1 銖, 5 銖 동전을 거스름돈으로 내보낼 수 있는 장치에 연결되어 있습니다.
+* 충분한 금액의 동전이 삽입되면, 가판대는 *종*을 울린 뒤 검증 표에 나온 대로 거스름돈을 거슬러 주어야 합니다.
 
 ##############
 
-* The cost of the item is set by the operator using a dial that can be read as an XBus input.
+* 물건 가격은 장치 관리자가 다이얼로 설정할 수 있으며, XBus 입력으로 읽어들일 수 있습니다.
