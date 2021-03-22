@@ -1,0 +1,26 @@
+Subject: Remote kill switch
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+I would like to have a remote kill switch for autonomous systems (robots). This is in case of failure of the autonomous system. Of course, such a switch would not be needed if we always designed the system correctly…
+
+We should make this.
+
+I will create the transmitter and you will create the receiver.
+
+Jie.
+
+----------- (Completion)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Sweet! Can’t be too careful when you make robots, am I right or am I right?
+
+(I am learning some more casual-style English from Joe.)
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+You scared me for a second there, J.

@@ -1,0 +1,58 @@
+Subject: Prototyping new ideas
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Sometimes a decent product idea falls out when you’re faffing about with chips and code and the like, so I’ve set up an empty prototype board for us to experiment on. On you go, then!
+
+Mmm, chips...
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+We can test with some different parts too, such as custom LCD panels.
+
+I will add other new parts as we receive them.
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Custom LCDs, are you serious? That’s brilliant. We could make retro-style handheld games!
+
+Let’s all take turns designing one.
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Carl, come see me. If you have finished all your other assignments, I have more work for you.
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Who’s this “Carl” fellow you mention? Nobody we know...
+
+----------- (Sandbox)
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Fine work there! Well, I suppose it’s my turn now.
+
+Hmm, what should I make a game about?
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Electrical engineering?
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Hah, haha! That would be a terrible game.

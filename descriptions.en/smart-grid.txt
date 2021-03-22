@@ -1,0 +1,15 @@
+* *meter-in* and *meter-out* are XBus inputs and outputs that connect this node to a building’s “smart grid” power meter.
+* *lower-in* and *lower-out* are XBus inputs and outputs that connect this node to a node with a lower ID number.
+* *higher-in* and *higher-out* are XBus inputs and outputs that connect this node to a node with a higher ID number.
+* The first value in a data packet is the ID number of the destination, and indicates how the packet should be handled:
+
+##############
+
+|   ID < meter ID   | retransmit data packet to the lower node
+---------------------------------------------------------------
+|   ID = meter ID   | retransmit data packet to the meter
+---------------------------------------------------------------
+|   ID > meter ID   | retransmit data packet to the higher node
+
+* The local ID number of the node is stored in a secure identity chip that can be read as an XBus input.
+* The second value in a data packet is the length of the rest of the data packet.

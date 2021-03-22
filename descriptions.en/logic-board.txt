@@ -1,0 +1,9 @@
+* *logos-data* and *telos-data* are XBus inputs connected to neural processors.
+* *logos-pump* and *telos-pump* are simple outputs connected to neural processor circulatory pumps.
+* *mesh-data* is an XBus output connected to a neural mesh network.
+* Neural processors *LOGOS* and *TELOS* will occasionally emit *data* packets consisting of 24 data values and 1 checksum value. If the checksum matches the data, forward the entire packet to *mesh-data*.
+
+##############
+
+* The circulatory *pumps* on *LOGOS* and *TELOS* should be activated every 5 time units. When a *data* packet is received from a neural processor, activate the corresponding *pump* immediately and reset the delay until the next automatic *pump* activation.
+* To validate the checksum of a *data* packet, start with the first value, subtract the second, add the third, subtract the fourth, add the fifth, and so on. When reaching the final value (the checksum), add it. If the total sum is 0, the packet is valid; otherwise, the packet has been corrupted and is not valid.

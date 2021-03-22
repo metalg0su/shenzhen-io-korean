@@ -1,0 +1,40 @@
+﻿Subject: Security nightmare
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Remember SleepCUBES, the capsule hotel company we did the little game console for? They’re back, this time asking for a lock that’s based off the national ID card. Loads of privacy concerns here, not to mention the fact that a trivially cloneable master key opens any lock (!!!), but, a job’s a job as they say. 
+
+At least I think that’s what they say.
+
+Carl
+
+-----------
+
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+I’ve stayed at SleepCUBE a few times. They’re not too shabby!
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Get thrown out of a club or something?
+
+-----------
+
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+I was researching our customer! Actually using the product or service is a great way to familiarize yourself with a company... it’s a natural part of any healthy corporate partnership!
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Heh. You’ve really changed, Joe.
+
+----------- (Completion)
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+This is the least secure security solution I’ve ever seen. And I’ve worked on voting machines!
+
+If you ever stay in a SleepCUBES, bring your own lock.

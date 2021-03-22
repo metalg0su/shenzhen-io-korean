@@ -1,0 +1,4 @@
+* *button* and *oracle* are simple inputs connected to a MEMS-based oracle engine.
+* *display* is a display output corresponding to a custom LCD screen designed to visualize I Ching hexagrams.
+* When the *button* is pushed the oracle engine will generate six values corresponding to the six lines of an I Ching hexagram (from bottom to top).
+* When the final value is generated, the display should be updated to match.

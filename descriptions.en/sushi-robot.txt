@@ -1,0 +1,11 @@
+* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
+* *fish* is an XBus output connected to a food-grade pick and place machine.
+* *rice* is a simple output connected to a food-grade extruder.
+* *gate-a*, *gate-b*, and *gate-c* are simple outputs connected to actuators capable of pushing a small plate of food from one conveyor belt to another conveyor belt.
+* When an order arrives over the *radio*, assemble the specified nigiri sushi and deliver it to the table that ordered it:
+
+##############
+
+| sushi type | destination table
+* Orders will arrive faster than the sushi can be assembled and delivered, so it will be necessary to enqueue the orders as they arrive and pipeline the assembly and delivery as indicated in the verification tab.
+* Look in the “Supplemental Data” section of the manual to find the SUSHI BAR FLOOR PLAN detailing the layout of the sushi bar and its conveyor belts.

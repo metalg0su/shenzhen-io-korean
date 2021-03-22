@@ -1,0 +1,11 @@
+* *card-reader* is an XBus input connected to an RFID card reader.
+* *learn* is a simple input connected to a button inside the room.
+* *unlock* is a simple output connected to an electric strike plate.
+* The door is first *unlocked* by the hotel staff using a special *card* (9999999999).
+* The user can then reprogram their lock by holding the *learn* button and scanning their *card*.
+
+##############
+
+* When the user scans their *card* again after reprogramming, the door should be *unlocked*.
+* Any *card* other than the user's *card* or the hotel staff *card* should not *unlock* the door.
+* To *unlock* the door, the *unlock* signal should be held high for 6 time units.

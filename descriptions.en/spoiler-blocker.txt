@@ -1,0 +1,9 @@
+* *audio-in* is a simple input connected to an omnidirectional microphone.
+* *audio-out* is a simple output connected to a pair of headphones.
+* *keywords* is a non-blocking XBus input connected to a natural language processing device that detects spoken words in an audio stream.
+* *override* is a simple input connected to a button.
+
+##############
+
+* The signal from *audio-in* should be copied to *audio-out* until a keyword from the SPOILER-RELATED KEYWORDS list for acclaimed television series GET THE THRONE is detected, after which *audio-out* should be locked to a value of 50 until the *override* button is pushed.
+* Look in the “Supplemental Data” section of the manual to find David and Xiaomei’s SPOILER-RELATED KEYWORDS for various television shows.

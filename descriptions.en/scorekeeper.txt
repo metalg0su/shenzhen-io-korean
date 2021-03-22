@@ -1,0 +1,5 @@
+* *point* and *foul* are simple inputs connected to buttons.
+* *display* is an XBus display output corresponding to a numeric LCD screen.
+* The counter should keep track of a count, starting at 0, and ensure that the *display* is always showing the current value.
+* When *point* is pushed the count should be incremented by 1.
+* When *foul* is pushed the count should be decremented by 2, but not below 0.

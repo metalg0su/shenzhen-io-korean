@@ -1,0 +1,29 @@
+Subject: Interface
+From: Kamran Farzan <k.farzan@neuro.avalon>
+CC: N. Pinsker <n.pinsker@elec.avalon>, J. Thiele <j.thiele@elec.avalon>
+
+Let’s get a custom board going for the current design.
+
+----------- 
+
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+Did you even introduce yourself, Kamran?
+
+----------- 
+
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+I guess someone’s too busy for introductions! Kamran is leading an effort to design a low-level brain-computer interface. It’s part of the NETHUNS project!
+
+----------- (Completion)
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+
+Does this get you what you need?
+
+-----------
+
+From: Kamran Farzan <k.farzan@neuro.avalon>
+
+For now, yes.

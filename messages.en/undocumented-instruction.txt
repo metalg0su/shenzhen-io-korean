@@ -1,0 +1,53 @@
+Subject: Undocumented instruction!
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+So, I was chatting with a mate at the pub and it comes to light those Chengshang Micro microcontrollers we use everywhere have a secret instruction that isn’t in any of the documentation. 
+
+Takes the format of:
+
+gen P R/I R/I
+
+...and it conveniently generates a pulse on any simple I/O pin! The signal switches on (100) then off (0) for however many time units you want using the last two operands.
+
+gen P X Y
+
+is equivalent to:
+
+mov 100 P
+slp X
+mov 0 P
+slp Y
+
+Bloody hell. I could have been using this all along and saved so many instructions!
+
+J, did you know about this?
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Yes. Actually, it is in the documentation… the Chinese version. Just like the @ conditional.
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+THE WHAT>
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Seems like many instructions are not translated yet. 
+
+Putting an @ symbol at the beginning of an instruction causes it to execute only once. How have you been initializing code?
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Yeah okay I see how it is.

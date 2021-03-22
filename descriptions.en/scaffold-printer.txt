@@ -1,0 +1,12 @@
+﻿* *data* is an XBus input connected to a computer.
+* *motor-x* and *motor-y* are simple outputs connected to precision motors.
+* *valve-α*, *valve-β*, and *valve-ψ* are simple outputs connected to a fluid print head.
+* There are two types of *data* packets that may be received: a 6-value packet that describes a 6x6 structure to print, or a 1-value packet containing only a -1 that instructs the printer to reset the print head position.
+* A "reset" packet will never arrive while a print job is in progress.
+
+##############
+
+* Control *motor-x* to move the print head right (100) and left (0).
+* Control *motor-y* to move the print head up (100) and down (0).
+* Control *valve-α*, *valve-β*, and *valve-ψ* to extrude the different scaffold materials.
+* Look in the “Supplemental Data” section of the manual to find a document from Lisa explaining CELLULAR SCAFFOLD PATTERNS.

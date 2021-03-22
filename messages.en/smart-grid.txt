@@ -1,0 +1,26 @@
+Subject: Control router - IMPORTANT
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+I’m pleased to say we have been selected for another Sun Haotian project, a simple data router for smart grids.
+
+Mr. Sun was never interested in civic infrastructure before to my knowledge, so I really wonder what he’s planning. I may ask around. My uncle’s had dinner with him once or twice.
+
+Lili Wu
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+We can do it.
+
+Note: These XBus inputs are blocking, so we will need to connect all inputs so they can be read at once (simultaneously).
+
+Jie.
+
+----------- (Completion)
+
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+This is just the tip of the iceberg. Mr. Sun is apparently pulling in a lot of resources and groups to create various subsystems for something. Nobody knows what it is other than that it’s going to be very big and potentially very lucrative for the firms involved. We’re on a path to further our good relationship with his group and eventually become trusted partners, so let’s continue to do our best work here.
+
+Lili Wu

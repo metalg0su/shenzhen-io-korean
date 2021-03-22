@@ -1,0 +1,22 @@
+Subject: Pulse generator
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+In order to test some of our new manufacturing equipment, we need a pulse generator with certain requirements (specifications). However, instead of buying one at the market price, I thought we could simply create our own.
+
+Jie.
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+For this project you will need to make use of *conditional execution*. Please continue your study of the language reference.
+
+Jie.
+
+----------- (Completion)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Yes, looks OK. Suitable for our purpose.
+
+Jie.

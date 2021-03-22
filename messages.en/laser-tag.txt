@@ -1,0 +1,48 @@
+Subject: Tag, you're it
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Please don’t blame me for this.
+
+I have a friend-- more like an acquaintance, really-- from a while back, many jobs ago. He’s always been a bit of a nutter and I guess what happened was he made a decent bit of cash with an app or something and decided to retire from the programmer’s life and build laser tag arenas for the rest of his days.
+
+That’s not the worst of it. He’s calling his franchise-to-be the AWESOMEPLEX (capitals his).
+
+In any case, he wanted to see if we could make some scorekeeping wearables for it and I said yes. I’m not entirely sure why. I suppose in the unlikely event his arenas do take off, it’ll look brilliant in hindsight.
+
+-----------
+
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+AWESOMEPLEX!!!
+
+When it’s done we should try a match in the office! Laser tag looks like so much fun.
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+A lot of simple inputs, either on or off. Too many for a microcontroller on its own but a good use for the DX300.
+
+Jie.
+
+----------- (Completion)
+
+From: 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+Joe, it would be great if you focused on business instead of constantly suggesting distractions.
+
+Also, I would destroy you.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Just got word from my friend. He’s purchased the building for his first… I can’t bring myself to write it out. His first location. Not sure I want to imagine how much of his retirement he’s put into it.
+
+It’s always nice to have a dream, but sometimes there’s a reason you shouldn’t pursue it, you know?
+
+-----------
+
+From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
+
+AWESOMEPLEX!!!

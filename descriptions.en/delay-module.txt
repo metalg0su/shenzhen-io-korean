@@ -1,0 +1,3 @@
+* *control-in* is a simple input connected to factory equipment.
+* *control-out* is a simple output connected to other factory equipment.
+* The signal from *control-in* should be multiplied by 2 and copied to *control-out*.

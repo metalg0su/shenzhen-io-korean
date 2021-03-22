@@ -1,0 +1,17 @@
+Subject: Sushi robot!
+From: Derrick Paul <d.paul@mech.avalon>
+CC: K. Haruo <k.haruo@elec.avalon>
+
+Hey, so, want to help me out with a fun little project I’ve been planning for a while? It’s a sushi-making robot I like to call the Omakase 9000. Having tasty sushi clearly wasn’t a priority early on, but now that the Ocean’s Bounty project is finished I figured Avalon City could use a little more high-end dining options. I think I’ve got the mechanical aspects worked out, so all it needs now is your expert logic to make it run!
+
+Derrick
+
+P.S. Don’t tell Lisa about it.
+
+----------- (Completion)
+
+From: Derrick Paul <d.paul@mech.avalon>
+
+Whew, that went over even better than I expected. Not only was Lisa surprised, she really liked the food too! I’ll never forget how her face lit up when she had the first bite. I’m just glad I made her happy.
+
+Thanks, I owe ya one!

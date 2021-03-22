@@ -1,0 +1,10 @@
+* *start-stop* and *reset-off* are simple inputs connected to buttons.
+* *display* is an XBus display output corresponding to a numeric LCD screen.
+* The chronometer is initially "off", but can be "turned on" by pressing the *start-stop* button.
+* The chronometer can then be started by pushing the *start-stop* button, at which point the *display* will begin incrementing by 1 for each 2 time units that elapse.
+* The chronometer can then be stopped by pushing the *start-stop* button again.
+
+##############
+
+* If the *reset* button is pushed when the chronometer is "on" but not running it will either reset to 0 (if the current count is greater than 0) or turn "off" (if the current count is 0).
+* If the *reset* button is pushed when the chronometer is running it has no effect.

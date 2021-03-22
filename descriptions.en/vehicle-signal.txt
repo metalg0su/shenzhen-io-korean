@@ -1,0 +1,7 @@
+* *emergency* is a simple input connected to a device that detects the transponders of nearby emergency vehicles.
+* *light-0*, *light-1*, and *light-2* are simple outputs connected to go/no-go traffic signals for three different directions at a hexagonal intersection.
+* Control of the *lights* should be sequenced as indicated in the verification tab, turning off all lights when an *emergency* vehicle is detected and restarting the sequence when it leaves transponder range.
+
+##############
+
+* The durations of the phases are set by the operator using dials that can be read as XBus inputs.

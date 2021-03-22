@@ -1,0 +1,14 @@
+* *keypad* is an XBus input connected to a keypad.
+* *bread*, *meat*, *cheese*, and *mustard* are simple outputs connected to mechanisms that dispense those ingredients.
+* *flag* is a simple output connected to a motor that raises and lowers a small American flag when a sandwich is complete.
+* When a value is available from the *keypad*, read it and execute the corresponding command in the following table:
+
+##############
+
+| -1  | CANCEL          | cancel order and reset all internal state
+-------------------------------------------------------------
+|  1  | HOLD THE CHEESE | don’t add *cheese* when constructing sandwich
+-------------------------------------------------------------
+|  2  | EXTRA MUSTARD   | add extra *mustard* when constructing sandwich
+-------------------------------------------------------------
+|  3  | SANDWICH TIME!  | construct sandwich according to verification tab

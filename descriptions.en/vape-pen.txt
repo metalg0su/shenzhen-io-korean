@@ -1,0 +1,7 @@
+* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
+* *red*, *green*, and *blue* are simple outputs connected to an ultra-bright RGB (tri-color) LED from top to bottom.
+* When a data packet is received over the *radio*, pulse the LED as specified:
+
+| red intensity | green intensity | blue intensity | pulse duration
+
+* If a data packet is received while a pulse is in progress, interrupt that pulse.

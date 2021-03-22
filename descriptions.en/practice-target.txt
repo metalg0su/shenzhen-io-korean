@@ -1,0 +1,13 @@
+* *detect* is a simple input that detects when a trainee has fired their weapon.
+* *target-x* and *target-y* are simple inputs that detect where the target has been hit.
+* *score-1* and *score-2* are XBus outputs connected to large numeric displays.
+
+* Two trainees each take 4 shots and score points depending on where they hit the target. To determine the point value of a shot, find the Euclidean distance (using the Pythagorean theorem) between the hit location and the center of the target, located at (50, 50):
+
+##############
+
+| distance < 10 | 4 points | 20 <= distance < 30 | 1 point
+-------------------------------------------------------
+| 10 <= distance < 20 | 2 points | distance >= 30 | -2 points
+
+* The numeric displays should be updated with the trainee's scores as they compete, and should flash 3 times at the end before turning off to indicate that the game is over.

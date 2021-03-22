@@ -1,0 +1,50 @@
+Subject: Pocket I Ching oracle
+From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
+
+Have you noticed the 易經 (I Ching, sometimes known in the West as “The Book of Changes”), experiencing a resurgence in popularity lately? For the benefit of those out of the loop, let me briefly explain: A hexagram is a set of six lines where each line is either solid or broken, with a total of 64 possible combinations. There is obviously much more to it but I don’t want to go into it too deeply!
+
+I’ve been studying the system for a while now, but I wish there was a quicker way to generate hexagrams. I thought perhaps this ancient divination method be brought into the modern era somehow as a pocket device.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Six coin flips, is it then?
+
+-----------
+
+From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
+
+Not at all. There is a much more detailed process through which one arrives at the reading involving yarrow stalks. I stopped by to try to describe it to you but you weren’t at your desk… Suffice it to say that we will need to generate the readings in the *proper* way if it is to be taken seriously as a divination tool!
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+I found a part that works for this. It implements the physical yarrow stalk method in miniature (MEMS). Strange.
+
+So, we can just create the display for the result.
+
+Obviously, interpretation is up to the user…
+
+Jie.
+
+----------- (Completion)
+
+From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
+
+Splendid! How wonderful that such a device was created right here in China, where it all began! I’ll probably even use this oracle myself as Xiaomei and I approach our wedding day. :)
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+David is more Chinese than even a Chinese person.
+
+Jie.
+
+-----------
+
+From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
+
+Thanks. ;)

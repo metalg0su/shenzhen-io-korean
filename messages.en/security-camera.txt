@@ -1,0 +1,26 @@
+Subject: Security camera (fake)
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+This product is an imitation (mock) security camera. It has two blinking lights. The first light blinks in a regular pattern. The second light is an internet light, so it should be blinking in a more random (intermittent) pattern, to resemble data upload.
+
+As you will notice, the design is partially complete already. A previous engineer left (quit) before finishing the assignment.
+
+Note the timing diagrams in the Verification tab. When you Simulate, your outputs should match those expected values as indicated.
+
+Let the simulation run until it has passed all of the test cases to make sure you have a proper solution.
+
+Jie. 
+
+----------- 
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+I’m absolutely certain you’ll do better than that last person.
+
+----------- (Completion)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Thanks for your prompt work on the blinking lights. Looks OK.
+
+Jie.

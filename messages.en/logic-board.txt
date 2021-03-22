@@ -1,0 +1,25 @@
+Subject: Logic board
+From: Kamran Farzan <k.farzan@neuro.avalon>
+CC: S. Pham <s.c.pham@elec.avalon>, G. Tows <g.tows@elec.avalon>, S. Bass <s.bass@elec.avalon>
+
+We’re almost there. We just need one more solution to tie all of these pieces together: a board that routes information to and from each neural processor. And one that we can manufacture at scale.
+
+Irina, side note for you: There are going to be a lot of these to power... a *lot*.
+
+----------- 
+
+From: Irina Kurchatova <i.kurchatova@energy.avalon>
+
+Bring it on :)
+
+----------- (Completion)
+
+From: Kamran Farzan <k.farzan@neuro.avalon>
+
+Now we need as many of these as possible, as fast as we can make then. Enzo?
+
+----------- 
+
+From: Enzo Capretti <e.capretti@avalon.avalon>
+
+We’re spinning up multiple facilities now. Anything not making bare essentials will be pulled into this. NETHUNS should be a go very soon.

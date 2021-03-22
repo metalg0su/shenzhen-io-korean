@@ -1,0 +1,37 @@
+Subject: Handheld timer
+From: Lisa Suemura <l.suemura@bio.avalon>
+CC: L. Braud <l.braud@elec.avalon>
+
+So this is going to be a funny thing to ask for with all our advanced technology here, but something we could really use is a dedicated handheld timer.
+
+We’ve begun developing recipes for every conceivable kind of food in the cleanrooms, and one critical thing is to understand exactly how long certain reactions take. Unfortunately, earlier today I saw Derrick using his phone to do that, and... let’s just say I had to put a stop to that as quickly as possible. Phones are absolutely not sterile. They are the opposite of sterile.
+
+Lisa Suemura, PhD, FRSB
+Director, Ocean’s Bounty Program
+Avalon City
+
+-----------
+
+From: Derrick Paul <d.paul@mech.avalon>
+
+Haha, sorry about that. I never realized how dirty a phone could be, but now that I think about it... yeah.
+
+Well, the timer is nothing fancy, just something all the technicians can use to keep track of how long things ought to take, wrapped in a hardened case we can throw in an autoclave.
+
+----------- (Completion)
+
+From: Derrick Paul <d.paul@mech.avalon>
+
+Thanks, you’re a lifesaver. I never thought I would live it down, using my phone in a cleanroom like that...
+
+-----------
+
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+We all make mistakes, Derrick. Just remember it for next time and you won’t have to see Lisa become Angry Lisa ever again.
+
+-----------
+
+From: Derrick Paul <d.paul@mech.avalon>
+
+I will definitely remember!

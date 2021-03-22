@@ -1,0 +1,13 @@
+* *error* is an XBus input indicating the current reactor error, if any.
+* *power* is a simple input indicating the current power output of the generator.
+* *temp* is a simple input indicating the current temperature of the reactor's core.
+* *control* is a simple input indicating the current state of the reactor's control rods.
+* *display* is an XBus display output corresponding to a LX900C custom LCD.
+* Continuously update the *display* to show the current status of the reactor.
+
+##############
+
+* To turn on a *display* segment, send that segment's ID to the *display* over XBus. To turn off a *display* segment, send that segment's ID multiplied by -1. 
+* To turn off all *display* segments, send the value -999 to the *display* over XBus.
+* If reading from *error* provides a value, send that value to the *display* unchanged to turn the corresponding *error* indicator on (positive) or off (negative).
+* Look in the “Supplemental Data” section of the manual to find the CUSTOM LCD SPECIFICATIONS for the *display*, in addition to specific instructions for how to display the different pieces of status information.

@@ -1,0 +1,32 @@
+Subject: Cryptocurrency deposit terminal
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+We’ve partnered with a major financial services company to create a cryptocurrency deposit terminal for people concerned about turbulence in the financial system. It should do especially well in regions where people are worried their government-issued currencies may be devalued soon.
+
+The terminal reads an account number from a cheap magnetic stripe card, accepts a cash deposit, and sends the information to the bank over the internet. Because nearly all of the money is flowing in a single direction we just need to have it handle deposits.
+
+Lili Wu
+
+----------- (Completion)
+
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+Great. I think we can really catch the wave with this one. Cryptocurrencies are really surging in popularity again thanks to recent market fluctuations. It seems even people who used to work primarily with cash are giving up and looking for an easy way to convert their money to digital these days. 
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+I wish I had my own currency. It must be nice to use a medium of exchange that you can manipulate any time you like.
+
+-----------
+
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+No politics please, Carl.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Right. To think I almost forgot…

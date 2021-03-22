@@ -1,0 +1,13 @@
+﻿* *hit* is a simple input connected to an array of laser sensors on a vest.
+* *respawn* is a simple input connected to a quick-connect jack on a vest.
+* *alive* is a simple output connected to an array of LED lights on a vest.
+* *trigger* and *reload* are simple inputs connected to switches in a replica gun.
+* *fire* is a simple output connected to a laser and effects module in a replica gun.
+* When a player is *hit*, their vest should be set to not *alive*.
+
+##############
+
+* When a player is *respawned*, their vest should be set to *alive*.
+* When a player *reloads* their gun, whether *alive* or not, their ammo count should be set to the ammo reload value.
+* When a player is *alive*, pulls the *trigger*, and has ammo remaining, the gun should *fire* and the ammo count should be decremented by 1.
+* To allow for "realistic operation" of various replica guns, the ammo reload value is set by the operator using a dial that can be read as an XBus input.

@@ -1,0 +1,10 @@
+* *button* is a simple input connected to a button.
+* *sensor* is a simple input connected to a color sensor.
+* *ink-k* and *ink-n* are simple outputs connected to pieces of fabric coated with color-changing electrochemical dye.
+* While the *button* is held, values from the color *sensor* should be read and bucketed according to the COLOUR CLASSIFICATION CHART.
+
+##############
+
+* When the *button* is released, *ink-k* and *ink-n* should be set to the values corresponding to the color that most frequently occurred during the calibration period as indicated in the SMART DYE COLOR SPACE. (There will never be a tie).
+* Prior to calibration, *ink-k* and *ink-n* should each be initialized to a value of 50, corresponding to a neutral color.
+* Look in the “Supplemental Data” section of the manual to find the WAVELENGTH-BASED COLOUR CLASSIFICATION chart and the INK SMARTDYE COLOUR SPACE.

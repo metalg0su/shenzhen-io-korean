@@ -1,0 +1,3 @@
+* *sensor* is a simple input connected to an air pollution sensor.
+* *window* is a simple output connected to a motor that opens and closes a sliding window.
+* The *window* should be closed (signal low) when the average *sensor* reading for the 8 most recent time units (including the current) is greater than or equal to 50.

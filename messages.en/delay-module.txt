@@ -1,0 +1,36 @@
+﻿Subject: Replacement factory module
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Our factory floor has some examples of older equipment that require control signals to be amplified. We had a device to adjust signals for this type of machine, but recently it was broken (smashed).
+
+This is an appropriate project to teach you about inputs.
+
+Jie. 
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Smashed?? Hang on a sec, what happened? Is everyone okay?
+
+----------- 
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+No need to worry.
+
+Jie.
+
+----------- (Completion)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Looks good. Thank you.
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Take care, yeah?

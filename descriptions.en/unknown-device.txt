@@ -1,0 +1,3 @@
+* *x* and *y* are simple inputs connected to an unknown device, presumably some type of position sensor.
+* *power* is a simple output connected to an unknown device, presumably some type of motor or high-power switch.
+* Map the (*x*, *y*) coordinate to the corresponding *power* value as specified in Poseidon-779’s GEOMETRIC SPECIFICATIONS, which can be found in the “Supplemental Data” section of the manual.

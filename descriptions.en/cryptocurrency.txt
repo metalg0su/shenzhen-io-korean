@@ -1,0 +1,10 @@
+* *card-reader* is a non-blocking XBus input connected to a magnetic card reader.
+* *cash-20*, *cash-50*, and *cash-100* are simple inputs connected to a mechanism that accepts and detects ¥20, ¥50, and ¥100 bills.
+* *network* is an XBus output connected to a network interface.
+* The user initializes a transaction by inserting their account card, indicated by an 8-digit data packet from *card-reader*.
+* The user then inserts money as indicated by the *cash* signals.
+
+##############
+
+* The user finalizes a transaction by ejecting their account card, indicated by a value of -1 from *card-reader*.
+* When a transaction is finished, the 8-digit account number and the total amount of the deposit should be transmitted over the *network* to the bank.

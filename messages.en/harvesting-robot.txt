@@ -1,0 +1,46 @@
+Subject: Harvest time!
+From: Lisa Suemura <l.suemura@bio.avalon>
+CC: T. Quinn <t.quinn@elec.avalon>
+
+It’s hard to believe, but our first full-size kelp beds are almost ready for harvesting and processing! Derrick’s been working on the mechanics of the harvester so we’re at a good place now to start designing the control system.
+
+We’re close to the culmination of the Ocean’s Bounty program! Soon we’ll be feeding the entire population of Avalon City with a delicious cornucopia of foods we created entirely on our own. I’m really excited!
+
+Lisa Suemura, PhD, FRSB
+Director, Ocean’s Bounty Program
+Avalon City
+
+----------- (Completion)
+
+From: 孙昊天 <sun@avalon.avalon>
+
+All,
+
+Please join me in warmly congratulating Dr. Suemura and her team for the success of the Ocean’s Bounty program, which has essentially solved the issue of food production for the entirety of Avalon City.
+
+Additionally, the technologies developed for this program will make a lasting beneficial impact on all of humanity, so this is a big win not only for our independence, but for the future of the planet as well.
+
+Sun Haotian
+President, Avalon City
+
+-----------
+
+From: Derrick Paul <d.paul@mech.avalon>
+
+A message from Sun himself, that’s amazing! Congratulations Lisa!
+
+So… what’s next after revolutionizing how the world makes food?
+
+-----------
+
+From: Lisa Suemura <l.suemura@bio.avalon>
+
+Thanks Derrick. It was a group effort, of course!
+
+To be honest I thought about taking some time off, but Enzo is already pulling me onto another project. No rest for me.
+
+-----------
+
+From: Derrick Paul <d.paul@mech.avalon>
+
+Well if you need any robotics, you know where to find me!

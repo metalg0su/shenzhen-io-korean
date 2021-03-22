@@ -1,0 +1,3 @@
+* *stage-1*, *stage-2*, *stage-3*, and *stage-4* are simple inputs.
+* *display* is an XBus output connected to a custom LCD.
+* Send values to the *display* output as indicated in the verification tab.

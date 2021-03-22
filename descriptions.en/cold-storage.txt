@@ -1,0 +1,9 @@
+* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
+* *motor* is a simple output connected to a bidirectional motor.
+* *extend* and *grab* are simple outputs connected to a robotic arm.
+* When a data packet that begins with the value 1 is received over the *radio*, pick up the container on the loading pad and move it to the first available storage bay. Then return the robotic arm to the loading pad. The second value in the data packet is the container's ID number, and will be used to retrieve it.
+
+#################
+
+* When a data packet that begins with the value 2 is received over the *radio*, retrieve the container with the same ID number as the second value in the data packet and move the container to the loading pad.
+* Consult the verification tab for information about *motor*, *extend*, and *grab* timing.

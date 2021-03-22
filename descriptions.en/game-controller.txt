@@ -1,0 +1,12 @@
+* *x* and *y* are simple inputs connected to a joystick.
+* *a* and *b* are simple inputs connected to buttons.
+* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
+* *radio-tx* is an XBus output connected to a radio transmitter.
+* When a data packet is received over the radio from the game console, respond with the following 3-value data packet, making sure to use the most recent input values:
+
+#############
+
+|     |     | 0, if *a* = 0 and *b* = 0
+| *x* | *y* | 1, if *a* = 100 and *b* = 0
+|     |     | 2, if *a* = 0 and *b* = 100
+|     |     | 3, if *a* = 100 and *b* = 100

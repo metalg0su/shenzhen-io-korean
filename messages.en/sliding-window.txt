@@ -1,0 +1,14 @@
+Subject: Pollution sensing window
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+I am working on a smart window that reacts to particulate matter in the air (pollution). I need a controller that allows us to close the window when the level is too high and opens it again when the level is lower.
+
+Jie.
+
+----------- (Completion)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Good. By the way, maybe you noticed that this is a “sliding window algorithm” for a sliding window. Do you think that is funny?
+
+Jie.

@@ -1,0 +1,46 @@
+﻿Subject: Custom specifications
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Ever wonder where the specs you test against come from? Well, we use a little program called conceptSPEC to generate them.
+
+I figure you're ready to create your own specs if you want, so I put a link on your desktop.
+
+conceptSPEC isn't exactly the most elegant program, but it'll do. Since, you know, there's no choice.
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Just remember that good specifications result in good designs. Poor specifications result in poor designs.
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Um, I've seen PLENTY of good specifications resulting in poor designs...
+
+----------- (Workshop)
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+Good work creating a specification.
+
+Maybe one day, you will take my job.
+
+Jie.
+
+-----------
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+You will never retire, J. I won't allow it.
+
+-----------
+
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
+
+I have been doing this for almost forty years. So, maybe after another forty years, I will get tired.
+
+Jie.

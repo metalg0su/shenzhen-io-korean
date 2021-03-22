@@ -1,0 +1,12 @@
+* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
+* *motor-x* and *motor-y* are simple outputs connected to an omnidirectional propulsion system.
+* The harvester begins at grid location (0, 0).
+* Locations to harvest are received over the *radio* as (X, Y) coordinates.
+* If at least one unharvested location remains, move toward the closest unharvested location. (There will never be a tie.)
+
+##############
+
+* Setting *motor-x* or *motor-y* to 100 for 1 time unit will move the harvester in the +X or +Y direction, respectively. Setting a *motor* to 50 will cause it to not move in that direction. Setting a *motor* to 0 will move it in the opposite direction.
+* Since the harvester can move in both the X and Y axes simultaneously, a diagonal move counts as a distance of 1.
+* The harvester will never receive a command to harvest its starting location.
+* There will never be more than 6 pending harvest locations.

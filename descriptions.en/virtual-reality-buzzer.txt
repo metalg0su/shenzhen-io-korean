@@ -1,0 +1,7 @@
+* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
+* *buzzer* is a simple output connected to an electromechanical buzzer.
+* When a data packet is received over the *radio*, read it and execute the corresponding command in the following table:
+
+| 0  | power off  | turn off the buzzer
+-------------------------------------------------------------
+| 1  | power on   | turn on the buzzer

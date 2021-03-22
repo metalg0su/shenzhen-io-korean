@@ -1,0 +1,9 @@
+* *radar-out* is a simple input connected to a miniature radar unit that indicates when it fires a radar “ping”.
+* *radar-in* is a simple input connected to a miniature radar unit that indicates when it receives a radar “ping”.
+* *laser* is a simple output connected to a variable-intensity infrared aiming laser.
+* *flood-20* and *flood-60* are simple outputs connected to infrared flood illuminators with 20° and 60° beams.
+
+##############
+
+* Measure the delay between the start of a *radar-out* pulse and the start of the *radar-in* pulse that follows it to determine the "radar range".
+* Control *laser*, *flood-20*, and *flood-60* as specified in the CARBINE TARGET ILLUMINATOR range diagram, which can be found in the “Supplemental Data” section of the manual.

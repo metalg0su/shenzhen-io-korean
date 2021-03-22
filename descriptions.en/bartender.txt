@@ -1,0 +1,13 @@
+* *keypad* is an XBus input connected to a keypad.
+* *vodka*, *gin*, *lemon*, *lime*, *cranberry*, and *vermouth* are simple outputs connected to mechanisms that dispense those ingredients at a rate of 0.5 oz. per time unit.
+* When a value is available from the *keypad*, read it and assemble the corresponding COCKTAIL RECIPE from “The Elegant Bachelor,” which can be found in the “Supplemental Data” section of the manual:
+
+##############
+
+| 1 | vodka shot    | 5 | vodka martini
+----------------------------------------
+| 2 | lemon drop    | 6 | gimlet
+----------------------------------------
+| 3 | cosmopolitan  | 7 | gin martini
+----------------------------------------
+| 4 | cape cod      |   |

@@ -1,0 +1,20 @@
+Subject: Traffic signal
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+Once again we are set to contribute to a piece of a larger system for a company controlled by Sun Haotian. This one is a traffic signal for a six-way intersection, with support for emergency transponders that override the normal traffic pattern.
+
+I don’t know any more than this.
+
+Lili Wu
+
+----------- (Completion)
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+No yellow signal. Does that mean they’re expecting robo-cars only? I wonder where they’d use this? 
+
+-----------
+
+From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
+
+We shouldn’t speculate. It’s our job to provide well-engineered solutions, not play detective with a client’s overall plans.

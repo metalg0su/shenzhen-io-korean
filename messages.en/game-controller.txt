@@ -1,0 +1,12 @@
+﻿Subject: Little help?
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+I’m wrapping up a project to make a game console and could use some assistance. Before you get too excited, it sounds *far* more fun than it actually is… the “console” is just a tiny super-cheap box we’re making for SleepCUBES, the big Japanese capsule hotel chain, to stick in every pod. The games’ll just be some free dross they find, I’m sure.
+
+At any rate, I’ve got it mostly done, I just need a module for the little wireless controller that comes with it. I ping you, you tell me what’s going on. Nothing much more than that.
+
+----------- (Completion)
+
+From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
+
+Thanks mate, I owe you one. You’ve just helped make thousands of dead-tired salarymen marginally happier. That is, if they actually find the console and use it to play a game before passing out…
