@@ -1,13 +1,13 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *motor* is a simple output connected to a bidirectional motor.
-* *tool-clean* and *tool-feed* are simple outputs connected to unknown tools.
-* The maintenance robot begins in station 0.
-* Pulsing *motor* to 100 and back to 50 will move it to the next station.
-* Pulsing *motor* to 0 and back to 50 will move it to the previous station.
+* *무선-rx*는 무선 수신기에 연결된 논블록킹 XBus 입력입니다.
+* *모터*는 좌우로 움직일 수 있는 모더에 연결된 단순 출력입니다.
+* *기기-청소*와 *기기-양분*은 알 수 없는 기기에 연결된 단순 출력입니다.
+* 관리 로봇은 0번 위치에서 시작합니다.
+* *모터*에 100의 신호를 보낸 뒤 다시 50으로 되돌리면 다음 위치로 이동하게 됩니다.
+* *모터*에 0의 신호를 보낸 뒤 다시 50으로 되돌리면 이전 위치로 이동하게 됩니다.
 
 #################
 
-* When a data packet is received over the *radio*, move to the destination station and activate the tools for the specified durations:
+* *무선 장치*로 데이터 패킷이 들어오면, 목표 위치로 이동한 뒤 다음 시간 동안 기기를 동작시키세요:
 
-|    destination   |     *tool-clean*     |     *tool-feed*
-|      station     |   activation time    |   activation time
+|    목표    |   *기기-청소*   |    *기기-양분*
+|    위치    |    작동 시간    |     작동 시간
