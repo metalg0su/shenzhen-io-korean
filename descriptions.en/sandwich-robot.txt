@@ -1,12 +1,12 @@
-* *keypad* is an XBus input connected to a keypad.
-* *bread*, *meat*, *cheese*, and *mustard* are simple outputs connected to mechanisms that dispense those ingredients.
-* *flag* is a simple output connected to a motor that raises and lowers a small American flag when a sandwich is complete.
-* When a value is available from the *keypad*, read it and dispense a sandwich using the information in the following table and the verification tab:
+* *키패드*는 키패드에 연결된 XBus 입력입니다.
+* *빵*, *고기*, *치즈*, *머스타드*는 단순 출력으로, 각각의 재료를 사출하는 장치로 연결되어 있습니다.
+* *깃발*은 단순 출력으로, 샌드위치 완성 시 미국 국기를 게양하거나 내릴 수 있는 모터에 연결되어 있습니다.
+* *키패드*에 값이 입력되면, 값을 읽고 다음의 표와 검증 표에 있는 정보를 이용하여 샌드위치를 만드세요:
 
 ##############
 
-|  1  | SANDWICH TIME!  | dispense a sandwich with *meat*, *cheese*, and *mustard*
+|  1  | 샌드위치 타임!  | *고기*, *치즈*, *머스타드*를 넣고 샌드위치를 만드세요
 -------------------------------------------------------------
-|  2  | HOLD THE CHEESE | dispense a sandwich but don’t add *cheese*
+|  2  | 치즈는 싫어 | *치즈*를 빼고 샌드위치를 만드세요
 -------------------------------------------------------------
-|  3  | EXTRA MUSTARD   | dispense a sandwich with extra *mustard*
+|  3  | 머스타드 곱빼기 | *머스타드*를 더 넣어서 샌드위치를 만드세요
