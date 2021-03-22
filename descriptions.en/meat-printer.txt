@@ -1,12 +1,12 @@
-* *keypad* is an XBus input connected to a keypad.
-* *extrude* is a simple output connected to a meat extruder.
-* *valve-0* through *valve-2* are simple outputs connected to valves in the meat extruder that control whether LEAN MIX (low) or FAT MIX (high) is extruded.
-* When a value is available from the *keypad*, read it and assemble the corresponding MEAT SPECIFICATION, which are found on a page in the “Supplemental Data” section of the manual:
+* *키패드*는 키패드에 연결된 XBus 입력입니다.
+* *압출*은 고기 압출기에 연결된 단순 출력입니다.
+* *밸브-0*부터 *밸브-2*까지는 고기 압출기에 연결된 단순 출력으로, 살코기 (낮음) 또는 비계 (높음) 압출 여부를 제어합니다.
+* *키패드*에 값이 입력되면, 값을 읽고 고기 명세서에 따라 조립하세요. 명세서는 매뉴얼의 "부록 자료"에서 찾아볼 수 있습니다.
 
 ##############
 
-| 1 | cutlet-style meat
+| 1 | 돈까스 스타일
 ------------------------
-| 2 | steak-style meat
+| 2 | 함박 스테이크 스타일
 ------------------------
-| 3 | bacon-style meat
+| 3 | 삼겹살 스타일
