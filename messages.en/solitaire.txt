@@ -1,11 +1,11 @@
-Subject: Please enjoy a game
+Subject: 게임 한 번 해 보세요
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-My daughter is learning programming. She created a simple card game.
+제 딸이 프로그래밍을 배우고 있는데, 간단한 카드 게임을 하나 만들었습니다.
 
-Would anyone like to try it and give some feedback for her? I put a link on everyone’s desktop.
+한 번 해 보시고 피드백을 주실 분 있나요? 각자 데스크탑에 링크를 올려드렸어요.
 
-She is interested to become a game developer. 
+딸은 게임 개발자가 되고 싶어 하더군요.
 
 Jie.
 
@@ -13,23 +13,20 @@ Jie.
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Wow J, that is both a lot more polished and far harder than I was expecting!
+와우 J, 생각보다 잘 다듬어져 있는데다가 예상 외로 난이도가 있는데요?
 
-Your daughter’s managed to design quite the challenging patience game.
-
-Maybe there could be an undo function?
-
+실행 취소 함수좀 만들어 달라 하면 안될까요?
 ----------- 
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-She says she doesn’t think it needs undo, because it is actually quite easy once you develop some skill.
+실행 취소는 필요 없다고 하더군요. 한번 요령을 터득하면 실제론 꽤 쉽습니다.
 
 ----------- 
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-She really takes after you.
+이거 완전 부전자전이네요.
 
 ----------- (Solitaire)
 
@@ -47,4 +44,4 @@ From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-Aww…
+아으...
