@@ -1,13 +1,13 @@
-Subject: Security camera (fake)
+Subject: 보안 카메라 (모형)
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-This product is an imitation (mock) security camera. It has two blinking lights. The first light blinks in a regular pattern. The second light is an internet light, so it should be blinking in a more random (intermittent) pattern, to resemble data upload.
+이 제품은 모형 (목업) 보안 카메라입니다. 불빛이 두 개가 깜빡이게끔 되어 있습니다. 하나는 일정한 규칙을 갖고 깜빡입니다. 다른 하나는 인터넷 연결 불빛인데, 데이터를 업로드하는 것처럼 보이기 위해 더 랜덤하게 (불규칙적으로) 깜빡입니다.
 
-As you will notice, the design is partially complete already. A previous engineer left (quit) before finishing the assignment.
+눈치채셨겠지만, 이미 일부 설계는 끝났습니다. 전임자가 업무를 다 못끝내고 나갔습니다 (퇴사함).
 
-Note the timing diagrams in the Verification tab. When you Simulate, your outputs should match those expected values as indicated.
+검증 표에 있는 타이밍 다이어그램을 살펴보세요. 시뮬레이트 버튼을 누르면, 당신이 만든 출력은 기대값과 일치해야 합니다.
 
-Let the simulation run until it has passed all of the test cases to make sure you have a proper solution.
+시뮬레이션에서 모든 테스트 케이스를 통과할 수 있는 방법을 찾아 보세요.
 
 Jie. 
 
@@ -15,12 +15,12 @@ Jie.
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I’m absolutely certain you’ll do better than that last person.
+전에 퇴사한 사람보다는 더 잘해 줄 거라 믿어요.
 
 ----------- (Completion)
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Thanks for your prompt work on the blinking lights. Looks OK.
+빠른 일처리 고맙습니다. 불빛이 깜빡이는게 보기 좋군요.
 
 Jie.
