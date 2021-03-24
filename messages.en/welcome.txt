@@ -1,35 +1,35 @@
-Subject: Welcome
+Subject: 환영합니다
 From: 王永红 <leader@longteng-co-ltd.gd.cn>
 
-Dear New Employee,
+신규 입사자 분께,
 
-Thank you for joining Shenzhen Longteng Electronics Company Ltd.
+Shenzhen Longteng 일렉트로닉스 유한 회사에 입사하신 것을 환영합니다.
 
-We aim to become a world-leading company in the electronics industry and a respected brand with products in homes, offices, and public spaces across the world.
+우리는 전자제품 업계에서 세계를 선도하는 기업을 목표하고 있으며, 세계 각지에 있는 가정, 기업, 공공 부문에서 우리 제품이 널리 사랑받는 기업이 되고자 합니다.
 
-Longteng Electronics was founded on the following principles:
+Longteng 일렉트로닉스의 기업 철학은 다음과 같습니다:
 
-1. Diligence: This means both diligence in your work and diligence in your life. When you encounter a problem, do not give up. Even if you are not talented, by working at it every day, little by little, you can achieve the goal.
+1. 근면: 근면함이라 함은 직장에서의 근면함과 여러분의 삶에서의 근면함 모두를 포괄합니다. 난관에 부딪히더라도 포기하지 마십시오. 재능이 없다 하더라도 매일 매일 한걸음 씩 목표에 다가갈 수 있을 것입니다.
 
-2. Connections: The process of creating electronics is the process of creating connections between different components. In the same way, we do business by making connections with other people. Therefore, it is important to always be making “connections” in your work.
+2. 관계: 전자 제품을 만드는 과정은 곧 서로 다른 부품 간의 관계를 맺는 과정입니다. 마찬가지로, 우리는 다른 사람들과 관계를 형성하며 일을 합니다. 그러므로, 직장에서 "관계"를 쌓는 것은 항상 중요한 일입니다.
 
-3. Salubriousness: An unhealthy mind creates an inefficient design. An unhealthy body builds a defective product. Follow “correct eating,” “correct behavior,” and “correct thinking” in order to maximize your potential.
+3. 건강: 정신이 건강하지 못하면 비효율적인 설계가 나옵니다. 육체가 건강하지 못하면 생산물에 결함이 생깁니다. "잘 먹고", "잘 행동하고", "잘 생각하기"를 통해 잠재력을 최대한 끌어내시기 바랍니다.
 
-Please keep these principles in mind as you contribute to our efforts.
+업무에 기여하실 때 항상 이 원칙들을 가슴에 새겨 두시기 바랍니다.
 
 王永红
-Wang Yonghong, CEO
+Wang Yonghong, 대표
 
 深圳龙腾科技有限公司
-Shenzhen Longteng Electronics Co. Ltd.
+Shenzhen Longteng 일렉트로닉스 유한 회사
 
 ----------- 
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Ah, fresh meat…
+아, 신참이다...
 
-Just kidding. Welcome to southern China! It’s alright, I suppose… except for the heat, smog and lack of decent cheese here in Shenzhen. Still far better than any engineering gig I can find back home in the UK, though. I’m assuming you ended up here for similar reasons?
+농담입니다. 중국 남부에 오신 걸 환영합니다! 이곳 Shenzhen은 괜찮은 동네에요. 어... 덥고, 미세먼지에, 제대로 된 치즈 하나 없다는 것만 제외하면 말이죠. 그래도 내 고향 영국보다는 제대로 된 개발자가 많은 것 같다는 점은 좋더군요. 여기 있다는 건 당신도 실력이 괜찮다는 말이겠죠?
 
 Carl
 
@@ -37,39 +37,39 @@ Carl
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-Yooooooo. So I heard you’re our newest ace engineer who’s going to kick ass and take names, am I right? You’ve probably heard all about me already, but I’m the product guy who loves to find amazing opportunities and make deals happen! LET’S DO THIS!!
+오오오오오오 당신이 바로 우리 팀의 에이스 개발자가 되어 날아다닐거라는 그 개발자 분이신가요? 이미 저에 대해서는 들으셨겠지만, 저는 아주 좋은 기회를 잡고 거래를 성사시키는 걸 정말 좋아하는 사람이랍니다. 같이 잘 해 봅시다!!
 
 Joe Haitao
-Product Manager
+프로덕트 매니저
 
 ----------- 
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Greetings and welcome to the team. As you’ve already been made aware, we are on a major international expansion effort and we are very eager to see you bring your skills and expertise to our company.
+팀에 합류하신 걸 진심으로 환영합니다. 알고 계시리라 생각하지만, 우리 회사는 현재 해외로 진출하기 위한 노력에 박차를 가하고 있습니다. 당신의 능력과 전문성을 회사에 가감없이 보여주시길 바라고 있습니다.
 
 Lili Wu
-Vice President of Product
-Longteng Co. LTD
+제품 부총괄
+Longteng 유한 회사
 
 ----------- 
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-你好! My name is David, or “戴维” in Chinese, and I was brought on to help Longteng with its international push. Though I’ve only recently moved here from San Francisco (where, I should point out, there is a very vibrant Chinatown), I am really loving it so far. It is truly fascinating to see a culture at once so ancient and so modern from up close!
+你好! 저는 David 라고 합니다. 중국어로는 "戴维"라고 해요. 해외 진출한다고 해서 여기에 스카웃되었어요. 샌프란시스코에 있다가 여기 온 지는 얼마 안되었는데 (전에 있던 곳에 정말 휘황찬란한 차이나타운이 있었어요), 전 여기가 정말 맘에 드네요. 고대와 현대의 문화를 눈앞에서 볼 수 있다는 점은 정말 매력적이죠!
 
-I am sure we will be working closely together to create many successful products. 很高兴认识你!
+같이 일하며 금방 많은 성과를 낼 수 있을 것 같아요. 很高兴认识你!
 
 David 戴维 P. Solomon
-International Product Manager
-Shenzhen Longteng Electronics Co., Ltd.
+해외 프로덕트 매니저
+Shenzhen Longteng 일렉트로닉스 유한 회사
 
 ----------- 
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Hello. My name is Jie Zhang. I am the chief staff engineer (your boss). I have not managed many foreign workers before, so please understand if I make a mistake here or there.
+반갑습니다. Jie Zhang이라고 합니다. 저는 개발 팀장 (당신의 상사) 직책을 맡고 있습니다. 해외에서 오신 분들을 많이 상대해 본 적이 많이 없어서, 이래 저래 서툰 점이 있더라도 양해해 주시기 바랍니다.
 
-Anyhow, I will send your first job shortly.
+그건 그렇고, 금방 첫 업무를 보내 드리도록 하겠습니다.
 
 Jie.
