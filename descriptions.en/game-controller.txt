@@ -1,12 +1,12 @@
-* *x* and *y* are simple inputs connected to a joystick.
-* *a* and *b* are simple inputs connected to buttons.
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *radio-tx* is an XBus output connected to a radio transmitter.
-* When a data packet is received over the radio from the game console, respond with the following 3-value data packet, making sure to use the most recent input values:
+* *x*와 *y*는 조이스틱에 연결된 단순 입력입니다.
+* *a*와 *b*는 각각 버튼에 연결된 단순 입력입니다.
+* *무선-rx*는 무선 수신기에 연결된 논블록킹 XBus 입력입니다.
+* *무선-tx*는 무선 송신기에 연결된 논블록킹 XBus 출력입니다.
+* 데이터 패킷이 무선 장비를 통해 게임 콘솔로 들어오면, 가장 최근에 입력한 값으로 다음과 같이 3 개의 데이터 패킷 형태로 응답하세요.
 
 #############
 
-|     |     | 0, if *a* = 0 and *b* = 0
-| *x* | *y* | 1, if *a* = 100 and *b* = 0
-|     |     | 2, if *a* = 0 and *b* = 100
-|     |     | 3, if *a* = 100 and *b* = 100
+|     |     | *a*가 0이고 *b*가 0이면, 0
+| *x* | *y* | *a*가 100이고 *b*가 0이면, 1
+|     |     | *a*가 0이고 *b*가 100이면, 2
+|     |     | *a*가 100이고 *b*가 100이면, 3

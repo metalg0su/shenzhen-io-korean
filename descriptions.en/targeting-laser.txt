@@ -1,9 +1,9 @@
-* *radar-out* is a simple input connected to a miniature radar unit that indicates when it fires a radar “ping”.
-* *radar-in* is a simple input connected to a miniature radar unit that indicates when it receives a radar “ping”.
-* *laser* is a simple output connected to a variable-intensity infrared aiming laser.
-* *flood-20* and *flood-60* are simple outputs connected to infrared flood illuminators with 20° and 60° beams.
+* *레이더-출력*은 소형 레이더 유닛에 연결된 단순 입력으로, 레이더가 "핑"을 쐈음을 의미합니다.
+* *레이더-입력*은 소형 레이더 유닛에 연결된 단순 입력으로, 레이더가 "핑"을 받았음을 의미합니다.
+* *레이저*는 가변 출력 적외선 조준 레이저에 연결된 단순 출력입니다.
+* *조명-20*과 *조명-60*은 각각 20°와 60° 범위의 적외선 투광 조명등에 연결된 단순 출력입니다.
 
 ##############
 
-* Measure the delay between the start of a *radar-out* pulse and the start of the *radar-in* pulse that follows it to determine the "radar range".
-* Control *laser*, *flood-20*, and *flood-60* as specified in the CARBINE TARGET ILLUMINATOR range diagram, which can be found in the “Supplemental Data” section of the manual.
+* *레이더-출력* 파장이 시작점과 *레이더-입력* 파장의 시작점 간격을 측정하여 "레이더 범위"를 계산하세요.
+* 매뉴얼의 "부록 자료" 항목에 있는 카빈 레이저 표적 지시기 범위 다이어그램을 참고하여 *레이저*, *조명-20*, *조명-60*을 제어하세요.

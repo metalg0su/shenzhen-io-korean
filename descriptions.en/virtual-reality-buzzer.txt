@@ -1,7 +1,7 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *buzzer* is a simple output connected to an electromechanical buzzer.
-* When a data packet is received over the *radio*, read it and execute the corresponding command in the following table:
+* *무선-rx*는 무선 수신기에 연결된 논블록킹 XBus 입력입니다.
+* *버저*는 전자기계식 버저에 연결된 단순 출력입니다.
+* 데이터 패킷이 *무선 장비*로 수신되면, 패킷을 읽고 아래 표에 나타난 명령을 수행하세요.
 
-| 0  | power off  | turn off the buzzer
+| 0  | 전원 끔     | 버저를 끕니다
 -------------------------------------------------------------
-| 1  | power on   | turn on the buzzer
+| 1  | 전원 켬     | 버저를 켭니다

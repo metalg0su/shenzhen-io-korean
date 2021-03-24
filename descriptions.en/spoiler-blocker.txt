@@ -1,9 +1,9 @@
-* *audio-in* is a simple input connected to an omnidirectional microphone.
-* *audio-out* is a simple output connected to a pair of headphones.
-* *keywords* is a non-blocking XBus input connected to a natural language processing device that detects spoken words in an audio stream.
-* *override* is a simple input connected to a button.
+* *오디오-입력*은 무지향성 마이크에 연결된 단순 입력입니다.
+* *오디오-출력*은 헤드폰에 연결된 단순 출력입니다.
+* *키워드*는 자연어 처리 장치에 연결된 논블록킹 XBus 입력으로, 오디오 스트림에서 대화를 감지합니다.
+* *무시*는 버튼에 연결된 단순 입력입니다.
 
 ##############
 
-* The signal from *audio-in* should be copied to *audio-out* until a keyword from the SPOILER-RELATED KEYWORDS list for acclaimed television series GET THE THRONE is detected, after which *audio-out* should be locked to a value of 50 until the *override* button is pushed.
-* Look in the “Supplemental Data” section of the manual to find David and Xiaomei’s SPOILER-RELATED KEYWORDS for various television shows.
+* *오디오-입력*에 들어온 신호는 인기 TV 시리즈 '왕이 되어라'의 스포일러 단어 목록에 등재된 단어가 나오기 전까지는 *오디오-출력*에 복제되어야 합니다. 만일 스포일러 단어가 감지되면, *오디오-출력*은 *무시* 버튼이 눌리기 전까지 출력이 50으로 고정되어야 합니다.
+* 매뉴얼의 "부록 자료"에서 David와 Xiaomei가 정리한 TV 쇼 스포일러 연관 단어들을 찾아 보세요.

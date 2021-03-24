@@ -1,11 +1,11 @@
-* *radar-sync* is a simple input indicating the current heading of the central tracking radar.
-* *radar-ping* is a simple input indicating the current distance from the central tracking radar if it is currently pointing in the user’s direction.
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
-* *radio-tx* is an XBus output connected to a radio transmitter.
-* *speaker* is a simple output connected to a miniature, self-amplified audio speaker.
+* *레이더-싱크*는 중앙 추적 레이더가 현재 향한 방향을 나타내는 단순 입력입니다.
+* *레이더-핑*은 단순 입력으로, 사용자가 특정 방향을 가리켰을 때, 그 위치와 중앙 추적 레이더와의 거리를 나타냅니다.
+* *무선-rx*는 무선 수신기로 연결된 논블록킹 XBus 입력입니다.
+* *무선-tx*는 무선 송신기로 연결된 XBus 출력입니다.
+* *스피커*는 소형 자가 증폭 오디오 스피커에 연결된 단순 출력입니다.
 
 ##############
 
-* When a data packet is received and begins with a value of 1, the subsequent data should be treated as length-prefixed audio data and played over the *speaker*.
-* When a data packet is received that begins with a value of 2 and specifies the ID of the badge, the badge should respond with its current sector.
-* The user’s location can be determined when a *radar-ping* pulse is detected by correlating the current heading and distance from the central tracking radar with the SECTOR MAP, which can be found as “Figure 7G” in the “Supplemental Data” section of the manual.
+* 수신된 데이터 패킷이 1로 시작할 경우, 다음 데이터는 나머지 오디오 데이터의 길이를 나타내며, 이 데이터는 *스피커*로 재생되어야 합니다.
+* 수신된 데이터 패킷이 2로 시작하고 뱃지에 저장된 ID와 일치할 경우, 뱃지가 위치한 현재 섹터를 응답해야 합니다.
+* *레이더-핑* 신호가 감지되었을 때, 중앙 추적 레이더의 방향과 거리를 측정하면 구역 지도에서 사용자의 위치를 찾을 수 있습니다. 매뉴얼의 "부록 자료"에 있는 "그림 7G"를 참고하세요.

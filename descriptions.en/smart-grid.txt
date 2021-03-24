@@ -1,15 +1,15 @@
-* *meter-in* and *meter-out* are XBus inputs and outputs that connect this node to a building’s “smart grid” power meter.
-* *lower-in* and *lower-out* are XBus inputs and outputs that connect this node to a node with a lower ID number.
-* *higher-in* and *higher-out* are XBus inputs and outputs that connect this node to a node with a higher ID number.
-* The first value in a data packet is the ID number of the destination, and indicates how the packet should be handled:
+* *계량기-입력*과 *계량기-출력*은 XBus 입출력으로, 이 노드를 건물의 "스마트 그리드" 전력망에 연결합니다
+* *하위-입력*과 *하위-출력*은 XBus 입출력으로, 이 노드를 하위 ID 노드로 연결합니다.
+* *상위-입력*과 *하위-출력*은 XBus 입출력으로, 이 노드를 상위 ID 노드로 연결합니다.
+* 데이터 패킷의 첫 번째 값은 목적 노드의 ID 값으로, 패킷이 어떻게 다뤄져야 하는지를 알려줍니다:
 
 ##############
 
-|   ID < meter ID   | retransmit data packet to the lower node
+|   ID < 계량기 ID   | 데이터 패킷을 하위 노드로 재송신합니다
 ---------------------------------------------------------------
-|   ID = meter ID   | retransmit data packet to the meter
+|   ID = 계량기 ID   | 데이터 패킷을 계량기로 재송신합니다
 ---------------------------------------------------------------
-|   ID > meter ID   | retransmit data packet to the higher node
+|   ID > 계량기 ID   | 데이터 패킷을 상위 노드로 재송신합니다
 
-* The local ID number of the node is stored in a secure identity chip that can be read as an XBus input.
-* The second value in a data packet is the length of the rest of the data packet.
+* 이 노드의 ID는 XBus 입력으로 읽을 수 있는 보안 식별 칩에 저장되어 있습니다.
+* 데이터 패킷에서 두 번째 값은 해당 패킷에서 남은 값의 길이를 나타냅니다.
