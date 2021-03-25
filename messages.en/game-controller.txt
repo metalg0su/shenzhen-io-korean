@@ -1,12 +1,12 @@
-﻿Subject: Little help?
+﻿Subject: 도움이 필요한가요?
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I’m wrapping up a project to make a game console and could use some assistance. Before you get too excited, it sounds *far* more fun than it actually is… the “console” is just a tiny super-cheap box we’re making for SleepCUBES, the big Japanese capsule hotel chain, to stick in every pod. The games’ll just be some free dross they find, I’m sure.
+게임 콘솔 만드는 프로젝트를 마무리하는 중인데, 도움을 좀 주셨으면 좋겠습니다. 흥분하지 마시고 들어보세요. 실제보다 훨씬 *더* 재밌을 거에요... "콘솔"은 정말 미친듯이 저렴한 물건으로, 일본 캡슐 호텔 체인인 슬립 큐브 사에 납품해서 모든 캡슐에 들어갈 거에요. 당연히 게임 퀄리티는 기대 이하의 것들이 들어가겠지만요.
 
-At any rate, I’ve got it mostly done, I just need a module for the little wireless controller that comes with it. I ping you, you tell me what’s going on. Nothing much more than that.
+어쨌거나, 지금 거의 다 끝났어요. 콘솔에 딸려있는 작은 무선 컨트롤러를 하나 만들었는데요. 내가 그쪽으로 핑을 쏘면, 현재 상황에 대해 응답해주면 돼요. 딱 그거면 돼요.
 
 ----------- (Completion)
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Thanks mate, I owe you one. You’ve just helped make thousands of dead-tired salarymen marginally happier. That is, if they actually find the console and use it to play a game before passing out…
+고마워요, 신세졌네요. 피로에 쩔은 수많은 월급쟁이들을 조금이나마 행복하게 해 주었단 말이죠. 물론, 골아 떨어지기 전에 게임 콘솔을 찾아내서 게임을 했을 때의 이야기지만요.
