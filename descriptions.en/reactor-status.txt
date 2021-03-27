@@ -10,4 +10,4 @@
 * To turn on a *display* segment, send that segment's ID to the *display* over XBus. To turn off a *display* segment, send that segment's ID multiplied by -1. 
 * To turn off all *display* segments, send the value -999 to the *display* over XBus.
 * If reading from *error* provides a value, send that value to the *display* unchanged to turn the corresponding *error* indicator on (positive) or off (negative).
-* Look in the “Supplemental Data” section of the manual to find the CUSTOM LCD SPECIFICATIONS for the *display*, in addition to specific instructions for how to display the different pieces of status information.
+* Look in the "Supplemental Data" section of the manual to find the CUSTOM LCD SPECIFICATIONS for the *display*, in addition to specific instructions for how to display the different pieces of status information.
