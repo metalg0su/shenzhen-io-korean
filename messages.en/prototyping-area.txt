@@ -21,7 +21,7 @@ From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
 맞춤형 LCD요? 진짜요? 멋진 아이디어네요. 휴대용 고전 게임기도 만들어 볼 수 있겠어요!
 
-어디 설계에 집중 좀 해 볼까.
+이제 진득하게 설계에 집중 좀 해 볼까요.
 
 -----------
 
@@ -41,7 +41,7 @@ From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-훌륭하네요! 어, 이제 제가 해볼 차례인 것 같네요.
+훌륭하네요! 자, 이제 제가 해볼 차례인 것 같네요.
 
 흠, 무슨 게임을 만들어 볼까요?
 

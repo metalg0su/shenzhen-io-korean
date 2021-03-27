@@ -3,7 +3,7 @@ From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
 제 딸이 프로그래밍을 배우고 있는데, 간단한 카드 게임을 하나 만들었습니다.
 
-한 번 해 보시고 피드백을 주실 분 있나요? 각자 데스크탑에 링크를 올려드렸어요.
+한 번 해 보시고 피드백을 주실 분 있나요? 각자 데스크탑에 링크를 올려드렸어요
 
 딸은 게임 개발자가 되고 싶어 하더군요.
 
@@ -15,7 +15,10 @@ From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
 와우 J, 생각보다 잘 다듬어져 있는데다가 예상 외로 난이도가 있는데요?
 
+따님이 꽤나 도전적인 난이도로 카드 게임을 디자인하느라 애좀 쓰셨겠군요.
+
 실행 취소 함수좀 만들어 달라 하면 안될까요?
+
 ----------- 
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
@@ -44,4 +47,4 @@ From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-아으...
+아으…

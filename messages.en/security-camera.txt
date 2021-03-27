@@ -9,7 +9,7 @@ From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
 시뮬레이션에서 모든 테스트 케이스를 통과할 수 있는 방법을 찾아 보세요.
 
-Jie. 
+Jie.
 
 ----------- 
 
