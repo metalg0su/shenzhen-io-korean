@@ -1,4 +1,4 @@
-* *radio-rx* is a non-blocking XBus input connected to a radio receiver.
+* *무선-rx*는 무선 수신기에 연결된 논블록킹 XBus 입력입니다.
 * *motor-x* and *motor-y* are simple outputs connected to an omnidirectional motor.
 * *harvest* is a simple output connected to a kelp harvesting apparatus.
 * The harvester begins at grid location (0, 0).

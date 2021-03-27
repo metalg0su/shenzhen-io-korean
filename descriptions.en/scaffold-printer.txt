@@ -1,12 +1,12 @@
-﻿* *data* is an XBus input connected to a computer.
-* *motor-x* and *motor-y* are simple outputs connected to precision motors.
-* *valve-α*, *valve-β*, and *valve-ψ* are simple outputs connected to a fluid print head.
-* There are two types of *data* packets that may be received: a 6-value packet that describes a 6x6 structure to print, or a 1-value packet containing only a -1 that instructs the printer to reset the print head position.
-* A "reset" packet will never arrive while a print job is in progress.
+﻿* *데이터*는 컴퓨터에 연결된 XBus 입력입니다.
+* *모터-x*와 *모터-y*는 정밀한 모터에 연결된 단순 출력입니다.
+* *밸브-α*, *밸브-β*, *밸브-ψ*은 액체 출력 헤드에 연결되어 있는 단순 출력입니다.
+* 수신 가능한 *데이터* 패킷은 두 종류가 있습니다. 6x6 구조물을 출력하기 위한 6 개 값의 패킷과, 프린터의 출력 헤드 위치를 원위치하라는 의미의 -1 값 하나만 담긴 1 개 값의 패킷입니다.
+* "원위치" 패킷은 출력 작업이 진행 중일 때에는 절대로 수신되지 않습니다.
 
 ##############
 
-* Control *motor-x* to move the print head right (100) and left (0).
-* Control *motor-y* to move the print head up (100) and down (0).
+* *모터-x*를 우측 (100) 또는 좌측 (0)으로 제어할 수 있습니다.
+* *모터-y*를 위 (100) 또는 아래 (0)로 제어할 수 있습니다.
 * Control *valve-α*, *valve-β*, and *valve-ψ* to extrude the different scaffold materials.
 * Look in the “Supplemental Data” section of the manual to find a document from Lisa explaining CELLULAR SCAFFOLD PATTERNS.
