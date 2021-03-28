@@ -15,35 +15,36 @@ From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
 From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-완전 달라요. 산가지로 점괘를 해석하게 되는데, 그 과정에 이르게 되면 훨씬 복잡해요. 그 과정을 설명드리러 찾아갔는데 안계시더군요… 우리가 해야할 일은 점괘를 *적절히* 뽑아주는 걸로 충분합니다.
+완전 달라요. 산가지로 점괘를 해석하게 되는데, 그 과정에 이르게 되면 훨씬 복잡해요. 그 과정을 설명드리러 찾아갔는데 안계시더군요… 우리가 해야할 일은 점괘를 *적절히* 뽑아주는 걸로 충분합니다. 마치 심오한 점술 도구로 점괘를 뽑은 것 처럼요!
 
+-----------
 
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
+작업을 위한 파츠를 찾았습니다. 물리적인 산가지를 모형 (초소형 전자 기계 시스템)으로 구현한 파츠입니다.
 
+이제 결과물을 화면에 뿌려주기만 하면 됩니다.
 
+물론, 해석은 사용자 몫이죠…
 
+Jie.
 
+----------- (Completion)
 
+From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
+훌륭해요! 이런 멋진 장치가 모든 것이 시작된 바로 이곳 중국에서 만들어지다니요! 이걸로 Xiaomei랑 점을 봐서 결혼식 날짜를 잡아야겠군요. :)
 
+-----------
 
+From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
+David는 중국사람보다도 더 중국사람같습니다.
 
+Jie.
 
+-----------
 
+From: David 戴维 P. Solomon <daiwei@longteng-co-ltd.gd.cn>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+고마워요. ;)
