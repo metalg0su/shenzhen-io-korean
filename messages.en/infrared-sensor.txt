@@ -1,9 +1,9 @@
-Subject: Infrared sensor - IMPORTANT
+Subject: 적외선 센서 - 중요
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-All,
+여러분,
 
-I am in the process of setting up closer tie-ups with top global firms and am working to secure higher-profile work for our company. The first result of these efforts is a contract to create an infrared sensor. This allows us to participate in the booming market for passive monitoring stations to detect illegal activities. Illegal carbon emissions, illegal growing operations, illegal immigration… if it’s against the law and it generates heat, we’ll detect it.
+저는 지금 세계 탑 순위 기업과 긴밀한 접촉 하며 지금 극비리에 진행될 업무를 따오고 있습니다. 적외선 센서 제작 의뢰가 그 첫 성과입니다. 이로서 요즘 폭발적인 성장세에 있다는 수동 감시 시설 시장에 참여할 수 있게 될 겁니다. 수동 감시 시설이 있으면 불법 활동이나 불법 탄소 배출, 불법 마약 재배, 불법 이민 등을 감시할 수 있습니다… 위법 활동엔 단서가 남기 마련이고, 우린 그걸 찾아내게 될 겁니다.
 
 Lili Wu
 
@@ -11,7 +11,7 @@ Lili Wu
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Just letting you know that your design for the infrared sensor component was well-received by our partners and is set to be integrated into a number of products currently under development by various defense and security firms. Obviously, our performance here opens the door to more jobs of this nature, so thank you for contributing to Longteng’s future.
+당신이 설계한 적외선 센서 컴포넌트가 고객사에게 잘 전달되었다는 사실을 말해주고 싶군요. 컴포넌트는 현재 방위 및 보안 업체들이 개발하고 있는 제품에 통합 과정이 벌써 진행 중입니다. 확실한 건, 우리의 기술력이 이 업계에서 더 많은 기회를 벌어다 주었다는 사실입니다. Longteng 사의 미래에 기여해 주셔서 진심으로 감사를 표합니다.
 
 Lili Wu
 
@@ -19,4 +19,4 @@ Lili Wu
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Hang on. We’re becoming a defense supplier?
+잠깐. 우린 이제 방산 지원 업체가 되는거야?

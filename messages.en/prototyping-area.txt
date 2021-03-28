@@ -1,17 +1,17 @@
-Subject: Prototyping new ideas
+Subject: 새로운 아이디어의 프로토타입 구현
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Sometimes a decent product idea falls out when you’re faffing about with chips and code and the like, so I’ve set up an empty prototype board for us to experiment on. On you go, then!
+때론 멋진 칩이나 코드 따위에 파뭍혀서 멋진 제품 아이디어를 놓치기 마련이죠. 그래서 시제품을 만들 수 있는 빈 프로토타입 보드를 준비했어요. 어디 만들어 볼까요!
 
-Mmm, chips...
+음, 칩이...
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-We can test with some different parts too, such as custom LCD panels.
+맞춤형 LCD 패널같이 독특한 파츠도 테스트해볼 수 있을 겁니다.
 
-I will add other new parts as we receive them.
+새로운 파츠도 받는대로 추가해 두겠습니다.
 
 Jie.
 
@@ -19,15 +19,15 @@ Jie.
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Custom LCDs, are you serious? That’s brilliant. We could make retro-style handheld games!
+맞춤형 LCD요? 진짜요? 멋진 아이디어네요. 휴대용 고전 게임기도 만들어 볼 수 있겠어요!
 
-Let’s all take turns designing one.
+이제 진득하게 설계에 집중 좀 해 볼까요.
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Carl, come see me. If you have finished all your other assignments, I have more work for you.
+Carl, 이리 좀 와 보세요. 업무 다 끝냈으면 이것 좀 해 주세요.
 
 Jie.
 
@@ -35,24 +35,24 @@ Jie.
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Who’s this “Carl” fellow you mention? Nobody we know...
+멘션하신 "Carl"이 누구죠? 그런 사람이 있었든가...
 
 ----------- (Sandbox)
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Fine work there! Well, I suppose it’s my turn now.
+훌륭하네요! 자, 이제 제가 해볼 차례인 것 같네요.
 
-Hmm, what should I make a game about?
+흠, 무슨 게임을 만들어 볼까요?
 
 -----------
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Electrical engineering?
+임베디드 개발하는 게임이요.
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Hah, haha! That would be a terrible game.
+하, 하하! 그런 끔찍한 게임이 어딨어요.

@@ -4,24 +4,24 @@ CC: T. Quinn <t.quinn@elec.avalon>
 
 It’s hard to believe, but our first full-size kelp beds are almost ready for harvesting and processing! Derrick’s been working on the mechanics of the harvester so we’re at a good place now to start designing the control system.
 
-We’re close to the culmination of the Ocean’s Bounty program! Soon we’ll be feeding the entire population of Avalon City with a delicious cornucopia of foods we created entirely on our own. I’m really excited!
+We’re close to the culmination of the Ocean’s Bounty program! Soon we’ll be feeding the entire population of 아발론 시티 with a delicious cornucopia of foods we created entirely on our own. I’m really excited!
 
 Lisa Suemura, PhD, FRSB
 Director, Ocean’s Bounty Program
-Avalon City
+아발론 시티
 
 ----------- (Completion)
 
 From: 孙昊天 <sun@avalon.avalon>
 
-All,
+여러분,
 
-Please join me in warmly congratulating Dr. Suemura and her team for the success of the Ocean’s Bounty program, which has essentially solved the issue of food production for the entirety of Avalon City.
+Please join me in warmly congratulating Dr. Suemura and her team for the success of the Ocean’s Bounty program, which has essentially solved the issue of food production for the entirety of 아발론 시티.
 
 Additionally, the technologies developed for this program will make a lasting beneficial impact on all of humanity, so this is a big win not only for our independence, but for the future of the planet as well.
 
 Sun Haotian
-President, Avalon City
+President, 아발론 시티
 
 -----------
 

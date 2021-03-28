@@ -1,12 +1,12 @@
-Subject: Important: Read the manual!
+Subject: 중요: 매뉴얼을 읽으세요!
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I know… you’re so good at engineering, systems, and life in general you haven’t needed a manual in ages. Right?
+시스템도 잘 알고 개발도 잘 하시는 건 물론 잘 압니다… 살아가는 데 안내서를 읽을 나이는 아니죠. 그쵸?
 
-Well, trust me on this one: You really, really, really, really really want to read the manual here. 
+근데, 이거 하나는 믿어 주세요. 여기선 진짜 진짜 진짜 진짜 진짜로 매뉴얼을 읽어야만 할 겁니다.
 
-Even better if you keep it handy as you work.
+옆에 두고 일하면 더 좋아요.
 
-Don’t be like the non-manual-using person who quit just before you started and whose name shall never be uttered again...
+매뉴얼 안읽겠다고 버티던 사람이 있었는데, 당신이 입사하기 바로 직전에 퇴사했어요. 그 사람 이름은 이제 금기어가 되었죠...
 
 Carl

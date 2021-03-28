@@ -1,7 +1,7 @@
-Subject: Pulse generator
+Subject: 펄스 발생기
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-In order to test some of our new manufacturing equipment, we need a pulse generator with certain requirements (specifications). However, instead of buying one at the market price, I thought we could simply create our own.
+신규 생산 장비를 테스트하기 위해, 특정 요구 사항 (명세서)을 만족하는 펄스 생성기가 필요합니다. 새로 하나 사지 말고, 그냥 직접 만들 수 있을 것 같습니다.
 
 Jie.
 
@@ -9,7 +9,7 @@ Jie.
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-For this project you will need to make use of *conditional execution*. Please continue your study of the language reference.
+이 프로젝트에서는 *조건부 실행*이 필요할 겁니다. 언어 레퍼런스 문서를 찾아보세요.
 
 Jie.
 
@@ -17,6 +17,6 @@ Jie.
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Yes, looks OK. Suitable for our purpose.
+아, 좋습니다. 의도한 대로 잘 작동하는군요.
 
 Jie.

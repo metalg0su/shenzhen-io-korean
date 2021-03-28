@@ -1,23 +1,23 @@
-﻿Subject: Replacement factory module
+Subject: 공장 모듈 교체
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Our factory floor has some examples of older equipment that require control signals to be amplified. We had a device to adjust signals for this type of machine, but recently it was broken (smashed).
+공장 현장에서 노후된 설비의 신호를 증폭해달라는 요청이 있었습니다. 해당 기종의 신호를 조정할 수 있는 장치가 있긴 한데, 최근에 망가졌습니다 (박살남).
 
-This is an appropriate project to teach you about inputs.
+이 프로젝트를 통해 입력에 대해 공부할 수 있는 좋은 기회입니다.
 
-Jie. 
+Jie.
 
 -----------
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Smashed?? Hang on a sec, what happened? Is everyone okay?
+박살났다고요?? 잠깐, 무슨 일인데요? 다친 사람은 없는건가요?
 
 ----------- 
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-No need to worry.
+걱정할 것 없습니다.
 
 Jie.
 
@@ -25,7 +25,7 @@ Jie.
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Looks good. Thank you.
+좋아 보이네요. 고맙습니다.
 
 Jie.
 
@@ -33,4 +33,4 @@ Jie.
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-Take care, yeah?
+몸조심해요. 알았죠?

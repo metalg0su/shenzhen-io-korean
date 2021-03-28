@@ -1,9 +1,9 @@
-Subject: Traffic signal
+Subject: 교통 신호
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Once again we are set to contribute to a piece of a larger system for a company controlled by Sun Haotian. This one is a traffic signal for a six-way intersection, with support for emergency transponders that override the normal traffic pattern.
+다시금 Sun Haotian의 회사에서 진행하는 대규모 시스템에서 일정 부분 기여할 수 있게 되었습니다. 6개의 도로가 만나는 교차로에서 신호등을 만드는 일입니다. 평상시 교통 패턴보다 우선시되는 응급 응답기 지원이 가능해야 합니다.
 
-I don’t know any more than this.
+이 이상에 대한 정보는 모릅니다.
 
 Lili Wu
 
@@ -11,10 +11,10 @@ Lili Wu
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-No yellow signal. Does that mean they’re expecting robo-cars only? I wonder where they’d use this? 
+노란 신호가 없네요. 이거 혹시 자율 주행 차량만 다닌다는 뜻인가요? 대체 어디에 쓰려는 걸까요?
 
 -----------
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-We shouldn’t speculate. It’s our job to provide well-engineered solutions, not play detective with a client’s overall plans.
+지레짐작해선 안됩니다. 우리의 일은 잘 설계된 솔루션을 제공하는 것이지, 고객사의 큰 그림을 추론하는 탐정 놀이가 본업이 아닙니다.

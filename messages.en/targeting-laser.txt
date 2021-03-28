@@ -1,9 +1,9 @@
-Subject: Carbine target illuminator
+Subject: 카빈 표적 조명기
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-We have a deal to create a highly portable infrared targeting device that automatically switches emitter modes based on range. At long range the aiming laser is on; at mid range the aiming laser switches to half power and turns on a 20-degree flood emitter, and at close range it switches completely to a 60-degree flood. I’ve placed a copy of the table on your desk.
+휴대성이 높은 적외선 표적 지시기를 거래하기로 했습니다. 거리에 따라 자동으로 조명 모드가 바뀌는 장치입니다. 원거리에서는 조준 레이저가 켜지며, 중거리에서는 조준 레이저 출력이 절반으로 감소하고 20도 조명이 켜집니다. 근거리에서는 60도 조명만 켜지게 됩니다. 자료 표 사본을 책상 위에 두었습니다.
 
-As a mounted add-on for any type of carbine weapon, it has the potential to do very well across government and law enforcement agencies.
+모든 유형의 카빈 총기류와 호환이 될 수 있으므로, 정부 및 사법당국에도 잠재적인 수요가 꽤 있을 것으로 보입니다.
 
 Lili Wu
 
@@ -11,18 +11,18 @@ Lili Wu
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-I’m going to “nope” right out of this one if none of you mind.
+다른 분들만 괜찮으시다면, 전 "싫어요"라고 대답하려고 합니다.
 
 ----------- (Completion)
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-We did it!! We made some kind of thing that goes on another thing that’s made for killing people and helps them kill people ever better! YAY! GO US!
+해냈어요!! 사람들이 서로 더 잘 죽고 죽일 수 있도록 하는 도구를 만들었네요! 야호! 가즈아!
 
 -----------
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Carl, I understand your concerns, but let’s take this offline.
+Carl, 우려하는 부분은 이해합니다만, 이런 건 사적으로 이야기해 주세요.
 
 Lili Wu

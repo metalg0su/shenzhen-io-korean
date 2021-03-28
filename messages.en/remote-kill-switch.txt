@@ -1,11 +1,11 @@
-Subject: Remote kill switch
+Subject: 원격 정지 스위치
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-I would like to have a remote kill switch for autonomous systems (robots). This is in case of failure of the autonomous system. Of course, such a switch would not be needed if we always designed the system correctly…
+우리쪽 자동화 시스템 (로봇)을 원격으로 정지할 수 있는 스위치가 필요합니다. 자동화 시스템의 고장 시를 대비해서 말입니다. 물론 우리가 시스템을 제대로 설계했다면 절대 필요하지 않았을 스위치겠지만…
 
-We should make this.
+만들어야 합니다.
 
-I will create the transmitter and you will create the receiver.
+제가 송신기를 만들테니, 당신은 수신기를 만들어 주시기 바랍니다.
 
 Jie.
 
@@ -13,9 +13,9 @@ Jie.
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Sweet! Can’t be too careful when you make robots, am I right or am I right?
+아싸! 로봇을 만들 때 너무 걱정하지 않아도 되겠군요. 인정? 어 인정?
 
-(I am learning some more casual-style English from Joe.)
+(전 Joe에게 비격식 영어 문체를 배우고 있습니다.)
 
 Jie.
 
@@ -23,4 +23,4 @@ Jie.
 
 From: Carl Tesky <carl@longteng-co-ltd.gd.cn>
 
-You scared me for a second there, J.
+순간 깜놀했잖아요 J.
