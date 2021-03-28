@@ -1,7 +1,7 @@
-Subject: Pollution sensing window
+Subject: 오염 감지 창문
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-I am working on a smart window that reacts to particulate matter in the air (pollution). I need a controller that allows us to close the window when the level is too high and opens it again when the level is lower.
+대기 중의 미립자(대기 오염)에 반응하는 스마트 창문을 만들고 있습니다. 오염도가 너무 높으면 창문을 닫고, 낮으면 다시 열게끔 하는 컨트롤러가 필요합니다.
 
 Jie.
 
@@ -9,6 +9,6 @@ Jie.
 
 From: 张杰 <zhangjie@longteng-co-ltd.gd.cn>
 
-Good. By the way, maybe you noticed that this is a “sliding window algorithm” for a sliding window. Do you think that is funny?
+좋습니다. 그나저나 눈치채였을지 모르겠지만, 이건 "슬라이딩 윈도우 알고리즘"을 슬라이딩 창문에 적용한 셈입니다. 재밌지 않습니까?
 
 Jie.

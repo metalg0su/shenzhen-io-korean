@@ -1,9 +1,9 @@
-Subject: Aquaponics maintenance robot
+Subject: 아쿠아포닉스 관리 로봇
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-Surely many of you have heard of Sun Haotian (孙昊天). His father was one of the first electronics entrepreneurs from this area, starting from when it was first designated a Special Economic Zone. Now that he’s inherited the family business, it would be no exaggeration to say he’s the most powerful man in Shenzhen today.
+Sun Haotian (孙昊天)에 대해 들어보신 분들 많이 계시죠? 그의 아버지는 이 지역이 경제 특구로 처음 지정되었을 때, 여기서 전자 제품으로 사업을 하던 초기 인물 중 하나입니다. Sun Haotian은 이제 가업을 물려받았습니다. 오늘날 Shenzhen에서 영향력이 가장 큰 사람이라 해도 과언이 아니죠.
 
-An opportunity has arisen to work with his conglomerate on a device that moves between stations in a line. Apparently, it’s intended to service an automated aquaponics facility. It’s a small start, but understand that our relationship with him is absolute top priority. If he feels he can trust us, we’ll continue to get bigger and better work from him.
+그가 운영하는 대기업과 협업할 기회가 생겼습니다. 일렬로 늘어선 공간을 움직이는 장치에 관한 것인데요, 아쿠아포닉스 시설 자동화에 사용하려는 것이 분명합니다. 첫 거래라 규모는 작지만, Sun Haotian 과의 관계 형성이 우리의 지상 목표입니다. 그가 우리를 신뢰할 수 있다면, 함께 일하며 더 큰 사업을 따올 수 있을 것입니다.
 
 Lili Wu
 
@@ -11,22 +11,22 @@ Lili Wu
 
 From: Joe (周海涛) <joe@longteng-co-ltd.gd.cn>
 
-What’s an aquaponics?
+아쿠아포닉스가 뭐에요?
 
 -----------
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-A system for growing food that combines aquaculture and hydroponics. Look it up.
+식량 생산 시설로서, 양식업과 수경 재배를 같이 하는 형식입니다. 찾아보세요.
 
-This robot probably cleans or adds nutrients to the system as needed.
+이 로봇은 필요할 때마다 시설을 청소하거나 양분을 공급하는 역할을 하는 것 같습니다.
 
 ----------- (Completion)
 
 From: Wu Lili 吴丽丽 <wulili@longteng-co-ltd.gd.cn>
 
-I’ve received word that Mr. Sun was happy with the result of our work here. 
+저희와 함께 일하게되어 기쁘다는 Sun Haotian 씨의 전언입니다.
 
-Clearly it’s part of a much larger project, but nobody I speak to will say anything more.
+이번 건은 더 큰 프로젝트의 일환인게 분명합니다. 다만 누구도 그 이상은 말해 주지 않더군요.
 
 Lili Wu
