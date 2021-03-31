@@ -9,12 +9,14 @@ Zachtronics 사에서 만든 Shenzhen I/O 의 한글 번역입니다.
 
 - [ ] 다이얼로그 (messages.en)
   - [x] LONGTENG 필수 대화
-  - [ ] LONGTENG 스팸 메일
+  - [x] LONGTENG 스팸 메일
   - [ ] ??(스포일러)
 - [ ] 인게임 요구사항 설명문 (descriptions.en)
   - [x] LONGTENG
   - [ ] ??(스포일러)
 - [ ] 여타 메시지 & 단어들 (strings.csv)
+
+> 참고: `strings.csv`의 경우, 번역은 진행했으나, 기술적인 문제로 인게임에서 적용이 불가능한 상황
 
 ## 적용법
 1. [번역물 다운로드](https://github.com/metalg0su/shenzhen-io-korean/archive/refs/heads/master.zip)
