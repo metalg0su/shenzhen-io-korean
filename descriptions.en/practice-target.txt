@@ -1,6 +1,6 @@
-* *detect* is a simple input that detects when a trainee has fired their weapon.
-* *target-x* and *target-y* are simple inputs that detect where the target has been hit.
-* *score-1* and *score-2* are XBus outputs connected to large numeric displays.
+* *감지*는 훈련생의 무기 발사 여부를 감지하는 단순 입력입니다.
+* *목표-x*와 *목표-y*는 목표에 대한 명중 여부를 감지하는 단순 입력입니다.
+* *점수-1*과 *점수-2*는 거대한 숫자 표시기에 연결된 XBus 출력입니다.
 
 * Two trainees each take 4 shots and score points depending on where they hit the target. To determine the point value of a shot, find the Euclidean distance (using the Pythagorean theorem) between the hit location and the center of the target, located at (50, 50):
 

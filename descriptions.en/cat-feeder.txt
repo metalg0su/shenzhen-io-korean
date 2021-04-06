@@ -1,4 +1,4 @@
-* *tag-reader* is a non-blocking XBus input connected to an RFID tag reader.
-* *food-a* and *food-b* are simple outputs connected to pet food dispensers.
-* The automatic pet feeder can be configured for use by up to three pets with collar-mounted RFID *tags* that store a value of either 1, 2, or 3. For each pet, the user can specify the minimum number of time units between feedings (TIME), the amount of *food* to dispense (SIZE), and which type of *food* to dispense (TYPE).
-* Configuration settings are set by the user using a combination of dials that can be read as XBus inputs and switches that can be read as simple inputs.
+* *태그-리더*는 RFID 태그 리더에 연결된 논블록킹 XBus 입력입니다.
+* *사료-a*와 *사료-b*는 각각 애완동물 급식기에 연결된 단순 출력입니다.
+* 자동급식기는 설정에 따라 최대 세 마리의 애완동물에게 사용할 수 있습니다. 해당 애완동물들은 RFID *태그*가 부착된 목줄을 하고 있으며, 1, 2, 3 중 하나의 값을 가집니다. 사용자는 각 애완동물마다 급식 간격의 최소 단위 시간 (TIME), 급식 시 *사료*의 양 (SIZE), 급식 시 *사료* 종류 (TYPE)를 설정할 수 있습니다.
+* 사용자는 여러 다이얼과 스위치를 사용해서 값을 설정할 수 있습니다. 다이얼은 XBus  입력으로 읽을 수 있으며, 스위치는 단순 입력으로 읽을 수 있습니다.

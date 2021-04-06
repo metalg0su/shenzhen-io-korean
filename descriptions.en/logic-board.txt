@@ -1,9 +1,9 @@
-* *logos-data* and *telos-data* are XBus inputs connected to neural processors.
-* *logos-pump* and *telos-pump* are simple outputs connected to neural processor circulatory pumps.
-* *mesh-data* is an XBus output connected to a neural mesh network.
-* Neural processors *LOGOS* and *TELOS* will occasionally emit *data* packets consisting of 24 data values and 1 checksum value. If the checksum matches the data, forward the entire packet to *mesh-data*.
+* *로고스-데이터*와 *텔로스-데이터*는 각각 신경 처리기에 연결된 XBus 입력입니다.
+* *로고스-펌프*와 *텔로스-펌프*는 각각 신경 처리기 순환 펌프에 연결된 단순 출력입니다.
+* *메시-데이터*는 메시 신경망에 연결된 XBus 출력입니다.
+* *로고스* 및 *텔로스* 신경 처리기는 24개의 데이터와 1개의 체크섬 값으로 이루어진 *데이터* 패킷을 간헐적으로 발생시킵니다. 체크섬 값이 데이터와 일치할 경우, 패킷 전체를 *메시-데이터*로 전송하세요.
 
 ##############
 
-* The circulatory *pumps* on *LOGOS* and *TELOS* should be activated every 5 time units. When a *data* packet is received from a neural processor, activate the corresponding *pump* immediately and reset the delay until the next automatic *pump* activation.
-* To validate the checksum of a *data* packet, start with the first value, subtract the second, add the third, subtract the fourth, add the fifth, and so on. When reaching the final value (the checksum), add it. If the total sum is 0, the packet is valid; otherwise, the packet has been corrupted and is not valid.
+* *로고스* 및 *텔로스*로 향하는 순환기 *펌프*는 5 단위 시간마다 활성화되어야 합니다. *데이터* 패킷이 신경 처리기로 들어올 경우, 해당되는 *펌프*를 즉각적으로 활성화하고 자동으로 다음 *펌프*가 올 때까지 유지하세요.
+* *데이터* 패킷의 체크섬을 검증하려면, 첫 번째 값에서 두 번째 값을 빼고 세 번째 값을 더하고 네 번째 값을 빼고 다섯 번째 값을 더하는 식을 반복하세요. 맨 마지막 값 (체크섬)에 도달하면, 그 값을 더하세요. 만일 총 합이 0일 경우, 데이터 패킷은 유효한 것입니다. 다른 값이라면 해당 패킷은 손상되었으므로 유효하지 않습니다.
