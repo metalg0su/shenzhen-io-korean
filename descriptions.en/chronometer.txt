@@ -1,10 +1,10 @@
-* *start-stop* and *reset-off* are simple inputs connected to buttons.
+* *시작-멈춤*과 *재설정-꺼짐*는 각각 버튼에 연결된 단순 입력입니다.
 * *디스플레이*는 XBus 디스플레이 출력으로, 해당하는 수치를 LCD 화면에 표시합니다.
-* The chronometer is initially "off", but can be "turned on" by pressing the *start-stop* button.
-* The chronometer can then be started by pushing the *start-stop* button, at which point the *display* will begin incrementing by 1 for each 2 time units that elapse.
-* The chronometer can then be stopped by pushing the *start-stop* button again.
+* 초기 상태의 초시계는 "꺼짐" 상태입니다. *시작-멈춤* 버튼이 눌리면 "켜짐" 상태가 됩니다.
+* 그 뒤에 *시작-멈춤* 버튼이 눌리면 초시계가 동작합니다. 이 경우 *디스플레이*에 표시되는 값은 2 단위 시간마다 1 씩 증가해야 합니다.
+* *시작-멈춤* 버튼이 다시 눌리면 초시계는 멈춥니다.
 
 ##############
 
-* If the *reset* button is pushed when the chronometer is "on" but not running it will either reset to 0 (if the current count is greater than 0) or turn "off" (if the current count is 0).
-* If the *reset* button is pushed when the chronometer is running it has no effect.
+* 초시계가 "켜짐" 상태에서 *재설정* 버튼이 눌리면 값이 0 (현재 값이 0보다 큰 경우)이 되며, 아니라면 "꺼짐" 상태 (현재 값이 0일 경우)가 됩니다.
+* 초시계가 작동 중일때 *재설정* 버튼이 눌리면 아무런 일도 일어나지 않습니다.

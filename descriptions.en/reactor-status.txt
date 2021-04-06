@@ -1,13 +1,13 @@
-* *error* is an XBus input indicating the current reactor error, if any.
-* *power* is a simple input indicating the current power output of the generator.
-* *temp* is a simple input indicating the current temperature of the reactor's core.
-* *control* is a simple input indicating the current state of the reactor's control rods.
-* *display* is an XBus display output corresponding to a LX900C custom LCD.
-* Continuously update the *display* to show the current status of the reactor.
+* *에러*는 현재 반응로에 에러가 발생했을 시 에러를 나타내는 XBus 입력입니다.
+* *전력*은 현재 발전기의 발전량을 나타내는 단순 입력입니다.
+* *온도*는 현재 노심의 온도를 나타내는 단순 입력입니다.
+* *제어*는 반응로 제어봉의 현재 상태를 나타내는 단순 입력입니다.
+* *디스플레이*는 맞춤 제작된 LX900C LCD에 연결된 XBus 디스플레이입니다.
+* 현재 반응로의 상태를 지속적으로 *디스플레이*에 표시하세요.
 
 ##############
 
-* To turn on a *display* segment, send that segment's ID to the *display* over XBus. To turn off a *display* segment, send that segment's ID multiplied by -1. 
-* To turn off all *display* segments, send the value -999 to the *display* over XBus.
-* If reading from *error* provides a value, send that value to the *display* unchanged to turn the corresponding *error* indicator on (positive) or off (negative).
-* Look in the "Supplemental Data" section of the manual to find the CUSTOM LCD SPECIFICATIONS for the *display*, in addition to specific instructions for how to display the different pieces of status information.
+* *디스플레이* 세그먼트를 켜려면, 해당 세그먼트의 ID를 XBus로 *디스플레이*에 보내세요. *디스플레이* 세그먼트를 끄려면, 해당 세그먼트의 ID에 -1을 곱하여 보내세요.
+* 모든 *디스플레이* 세그먼트를 끄려면, XBus로 *디스플레이*에 -999를 보내세요.
+* *에러*가 입력될 경우, 그대로 *디스플레이*에 보내서 해당 *에러*가 의도한 대로 켜지거나 (양수) 꺼지도록 (음수)하세요.
+* 매뉴얼의 "부록 자료"에서 *디스플레이*와 관련된 CUSTOM LCD 명세서를 찾아보세요. 해당 자료에서 여러가지 상태 정보에 따라 화면에 출력할 방법도 알아볼 수 있습니다.
