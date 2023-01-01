@@ -1,0 +1,25 @@
+Subject: Logic board
+From: 캄란 파르잔 <k.farzan@neuro.avalon>
+CC: S. 팜 <s.c.pham@elec.avalon>, G. Tows <g.tows@elec.avalon>, S. Bass <s.bass@elec.avalon>
+
+거의 다 왔어요. 우리는 이 모든 조각들을 하나로 묶을 수 있는 하나의 해결책이 더 필요합니다: 각각의 신경 프로세서로 정보를 전달하는 보드입니다. 그리고 우리가 규모에 맞게 제작할 수 있는 것도요.
+
+이리나, 당신을 위한 부차적인 메모입니다: 전력을 공급하기 위해 이것들이 많이 필요할 겁니다... *아주 많이*요.
+
+----------- 
+
+From: 이리나 쿠르차토바 <i.kurchatova@energy.avalon>
+
+덤벼요 :)
+
+----------- (Completion)
+
+From: 캄란 파르잔 <k.farzan@neuro.avalon>
+
+이제 우리는 이게 가능한 한 많이, 만들 수 있는 한 빨리 필요합니다. 엔조?
+
+----------- 
+
+From: 엔조 카프레티 <e.capretti@avalon.avalon>
+
+우리는 지금 여러 시설을 가동하고 있습니다. 생필품 만드는 것은 외에는 모두 여기에 끌어들일 것입니다. 넷흄스는 곧 시작될 것입니다.

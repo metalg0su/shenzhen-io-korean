@@ -1,0 +1,22 @@
+Subject: 펄스 발생기
+From: 장 지에 <zhangjie@longteng-co-ltd.gd.cn>
+
+신규 생산 장비를 테스트하기 위해, 특정 요구 사항 (명세서)을 만족하는 펄스 생성기가 필요합니다. 새로 하나 사지 말고, 그냥 직접 만들 수 있을 것 같습니다.
+
+지에.
+
+-----------
+
+From: 장 지에 <zhangjie@longteng-co-ltd.gd.cn>
+
+이 프로젝트에서는 *조건부 실행*이 필요할 겁니다. 언어 레퍼런스 문서를 찾아보세요.
+
+지에.
+
+----------- (Completion)
+
+From: 장 지에 <zhangjie@longteng-co-ltd.gd.cn>
+
+아, 좋습니다. 의도한 대로 잘 작동하는군요.
+
+지에.

@@ -1,0 +1,36 @@
+Subject: 공장 모듈 교체
+From: 장 지에 <zhangjie@longteng-co-ltd.gd.cn>
+
+공장 현장에서 노후된 설비의 신호를 증폭해달라는 요청이 있었습니다. 해당 기종의 신호를 조정할 수 있는 장치가 있긴 한데, 최근에 망가졌습니다 (박살남).
+
+이 프로젝트를 통해 입력에 대해 공부할 수 있는 좋은 기회입니다.
+
+지에.
+
+-----------
+
+From: 칼 테스키 <carl@longteng-co-ltd.gd.cn>
+
+박살났다고요?? 잠깐, 무슨 일인데요? 다친 사람은 없는건가요?
+
+----------- 
+
+From: 장 지에 <zhangjie@longteng-co-ltd.gd.cn>
+
+걱정할 것 없습니다.
+
+지에.
+
+----------- (Completion)
+
+From: 장 지에 <zhangjie@longteng-co-ltd.gd.cn>
+
+좋아 보이네요. 고맙습니다.
+
+지에.
+
+-----------
+
+From: 칼 테스키 <carl@longteng-co-ltd.gd.cn>
+
+몸조심해요. 알았죠?

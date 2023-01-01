@@ -1,0 +1,29 @@
+Subject: 인터페이스
+From: 캄란 파르잔 <k.farzan@neuro.avalon>
+CC: N. Pinsker <n.pinsker@elec.avalon>, J. Thiele <j.thiele@elec.avalon>
+
+현재 디자인에 맞는 커스텀 보드를 준비해 봅시다.
+
+----------- 
+
+From: 리사 스에무라 <l.suemura@bio.avalon>
+
+소개인사는 한거에요, 캄란?
+
+----------- 
+
+From: 리사 스에무라 <l.suemura@bio.avalon>
+
+누군가가 너무 바빠서 소개할 시간이 없는 것 같아요! 캄란은 낮은 수준의 뇌-컴퓨터 인터페이스를 설계하기 위한 활동을 이끌고 있습니다. 그것은 넷흄스 프로젝트의 일부입니다!
+
+----------- (Completion)
+
+From: 엔조 카프레티 <e.capretti@avalon.avalon>
+
+이걸로 필요한 것을 얻을 수 있나요?
+
+-----------
+
+From: 캄란 파르잔 <k.farzan@neuro.avalon>
+
+일단은요.
