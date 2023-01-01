@@ -1,401 +1,401 @@
-+ NEW DESIGN,,＋新设计
-+ NEW SPEC,,＋新规格
++ NEW DESIGN,,＋새 디자인
++ NEW SPEC,,＋새 명세
 <NO SUBJECT>,,<NO SUBJECT>
-AMMO,,填弹
-AUTO-FORMAT CODE,,自动编码格式
-AVALON CITY,,阿瓦隆城
-Actual,,实际
-Airline cocktail mixer,,航空鸡尾酒调酒器
-Animated eSports sign,,动画 eSports 标志
-Aquaponics maintenance robot,,共生环境维护机器人
-Aquatic harvesting robot,,水下收割机器人
-Automatic pet feeder,,自动宠物喂食机
-BEST:,,最佳：
-BRIDGE,,桥接器
-BROWSE THE WORKSHOP,,浏览工坊
-Brain-computer interface,,脑机接口
-"But after I graduated, the reality of the world caught up with me.",,我毕业后，现实世界无比残酷。
-But it brought me here.,,但我被带到了这里。
-"But no matter what the future holds, there’s one thing I know.",,无论未来如何，我对一件事情深信不疑。
-"By uploading this specification, you agree to the Steam Workshop terms of service. For more information, visit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement",,上传本说明文档意味着你同意Steam Workshop（创意工坊）的条款。如您想要获得更多信息请访问：\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement
-CANCEL,,取消：
+AMMO,,탄약
+AUTO-FORMAT CODE,,자동포멧코드
+AVALON CITY,,아발론 시티
+Actual,,실제값
+Airline cocktail mixer,,항공 칵테일 혼합기
+Animated eSports sign,,애니메이션 e-스포츠 사인
+Aquaponics maintenance robot,,아쿠아포닉스 관리 로봇
+Aquatic harvesting robot,,수중수확로봇
+Automatic pet feeder,,반려동물 자동급식기
+BEST:,,BEST:
+BRIDGE,,브릿지
+BROWSE THE WORKSHOP,,워크샵 탐색
+Brain-computer interface,,뇌-컴퓨터 인터페이스
+"But after I graduated, the reality of the world caught up with me.",,"하지만 내가 졸업한 후, 세상의 현실이 나를 붙잡았다."
+But it brought me here.,,하지만 그것이 나를 여기까지 오게 했다.
+"But no matter what the future holds, there’s one thing I know.",,"하지만 미래가 어떻게 되든, 내가 아는 한 가지가 있다."
+"By uploading this specification, you agree to the Steam Workshop terms of service. For more information, visit:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement",,"이 명세서를 업로드하면 Steam Workshop 서비스 약관에 동의하는 것입니다. 자세한 내용은 다음 사이트를 참조하십시오.：\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement"
+CANCEL,,취소
 CC:,,CC:
-CHIP'S TIPS,,芯片提示
-CLOSE,,关闭
-COMPILATION FAILED,,编译失败
-COMPILE ERROR:,,编译错误：
-CONNECTING TO LIVE CAMERA FEED...,,连接实时摄像来源……
-CONTINUE EDITING,,继续编辑
-CONTROL PANEL,,控制面板
-COPY,,复制
-CUSTOM SPECS,,自定义规格
-Cannot read pin twice,,无法读取引脚两次
-Carbine target illuminator,,卡宾枪瞄准照明器
-"Cards can be stacked and moved in the center of the table, but only if they are of alternating suits and decreasing values.",,可以在桌上将牌叠起来，但纸牌必须按照数字降序放置，且不能为同一种花色。
-Cellular scaffold printer,,细胞支架模型
-Click and hold this button to indicate that you have completed the objective.,,点击并持续按下此按钮，以确认你已完成目标。
-Click and hold this button to indicate your readiness.,,点击并持续按下此按钮，以表明你的决心。
-Click and hold this button to permanently relocate to Avalon City.,,点击并持续按下此按钮，确认你要永久搬往阿瓦隆城居住。
-Cold storage robot,,冷库机器人
-Color coordinating shoes,,变色鞋
-Color-changing vape pen,,变色电子烟笔
-Command + click to toggle breakpoint.,,按住 Command 并单击以设置或取消断点。
-Control Panel,,控制面板
-Control signal amplifier,,控制信号放大器
-Create a working design for this product,,为该产品创建一个可用的设计
-Create a working design for this product to view histograms and leaderboards.,,为该产品创建一个可用的设计并浏览柱形统计图和排行榜。
-Create and upload a custom specification to Steam Workshop,,创建并上传一个定制规格作品到 Steam Workshop
-Cryptocurrency deposit terminal,,加密货币存储终端
-Ctrl + click to toggle breakpoint.,,按住 Ctrl 并单击以设置或取消断点。
-DELETE,,删除
-DELETE THIS DESIGN?,,删除此设计？
-DELETE THIS SPEC?,,删除此作品？
-DIAL 1,,转盘 1
-DIAL 2,,转盘 2
-DIAL 3,,转盘 3
-DISCUSSIONS,,讨论
-Datasheets,,数据手册
-Decide if you want to join Sun Haotian in Avalon City,,请决定你是否想追随孙昊天去往阿瓦隆城。
-Deep sea sensor grid,,深海探测网格
-Design and create an electronic game,,设计并创建一个电子游戏
-Diagnostic pulse generator,,诊断脉冲生成器
-Display output,,显示输出
-Drag with the middle mouse button (or the left mouse button while holding the Alt key) to look at different parts of your design.,,按住鼠标中键（或按住 Alt 键的同时按下鼠标左键）拖拽，这样就可以看到你的设计的不同部件。
-Drinking game scorekeeper,,饮酒游戏积分器
-EDIT,,编辑
-Electronic door lock,,电子门锁
-Electronic practice target,,电子射击练习靶
-Engineering stories aren’t like movie stories.,,工程师的故事并不像电影那么精彩。
-Expected,,预计
-Expected label,,预计标签（label）
-Expected register,,预计存储器变量（register）
-Expected register or number,,预计存储器变量（register）或数字
-FULLSCREEN,,全屏
-Fake surveillance camera,,模拟安全摄像头
+CHIP'S TIPS,,CHIP'S TIPS
+CLOSE,,닫기
+COMPILATION FAILED,,컴파일 실패
+COMPILE ERROR:,,컴파일 오류：
+CONNECTING TO LIVE CAMERA FEED...,,라이브 카메라 피드에 연결 중……
+CONTINUE EDITING,,계속 편집하기
+CONTROL PANEL,,제어판
+COPY,,복사
+CUSTOM SPECS,,사용자 정의 명세
+Cannot read pin twice,,핀을 두 번 읽을 수 없음
+Carbine target illuminator,,카빈 표적 조명기
+"Cards can be stacked and moved in the center of the table, but only if they are of alternating suits and decreasing values.",,"카드는 테이블 중앙에서 쌓거나 이동할 수 있지만 카드는 숫자 내림차순으로 배치되어야 하며 동일한 색상이 될 수 없습니다."
+Cellular scaffold printer,,세포 골격 프린터
+Click and hold this button to indicate that you have completed the objective.,,목표를 완료했음을 나타내려면 이 버튼을 길게 클릭하십시오.
+Click and hold this button to indicate your readiness.,,준비 상태를 나타내려면 이 버튼을 길게 클릭하십시오.
+Click and hold this button to permanently relocate to Avalon City.,,이 버튼을 클릭하여 아발론 시티로 영구적으로 이주하십시오.
+Cold storage robot,,냉동 창고 로봇
+Color coordinating shoes,,깔맞춤 신발
+Color-changing vape pen,,색깔 변하는 전자담배
+Command + click to toggle breakpoint.,,중단점을 전환하려면 Command키 + 클릭
+Control Panel,,제어판
+Control signal amplifier,,제어 신호 증폭기
+Create a working design for this product,,이 제품에 대한 작업 설계 생성
+Create a working design for this product to view histograms and leaderboards.,,히스토그램 및 리더보드를 볼 수 있도록 이 제품에 대한 작업 설계 생성
+Create and upload a custom specification to Steam Workshop,,사용자 정의 명세를 만들고 Steam Workshop에 업로드하기
+Cryptocurrency deposit terminal,,암호화폐 입금 단말기
+Ctrl + click to toggle breakpoint.,,중단점을 전환하려면 Ctrl키 + 클릭
+DELETE,,삭제
+DELETE THIS DESIGN?,,이 설계를 삭제합니까?
+DELETE THIS SPEC?,,이 명세를 삭제합니까?
+DIAL 1,,다이얼 1
+DIAL 2,,다이얼 2
+DIAL 3,,다이얼 3
+DISCUSSIONS,,논의
+Datasheets,,데이터 시트
+Decide if you want to join Sun Haotian in Avalon City,,아발론 시티의 손호천과 합류할 것인지 결정하십시오.
+Deep sea sensor grid,,심해 센서 그리드
+Design and create an electronic game,,전자오락을 설계하고 만들기
+Diagnostic pulse generator,,진단 펄스 발생기
+Display output,,디스플레이 출력
+Drag with the middle mouse button (or the left mouse button while holding the Alt key) to look at different parts of your design.,,Alt 키를 누른 상태에서 마우스 가운데 단추(또는 마우스 왼쪽 단추)로 끌어서 설계의 다른 부분을 확인합니다.
+Drinking game scorekeeper,,술 마시기 게임 점수기록기
+EDIT,,편집
+Electronic door lock,,전자 도어락
+Electronic practice target,,전자 사격 연습 표적
+Engineering stories aren’t like movie stories.,,엔지니어의 이야기는 영화처럼 멋지지 않습니다.
+Expected,,기대값
+Expected label,,기대 라벨
+Expected register,,기대 레지스터
+Expected register or number,,기대 레지스터 혹은 숫자
+FULLSCREEN,,전체화면
+Fake surveillance camera,,가짜 감시 카메라
 From:,,From:
 G,KEY NAME,G
-Good,,好
-HIDE PROFILER,,隐藏分析器
-HIDE SIGNALS,,隐藏信号
-Harmonic maximization engine,,调谐最优化引擎
-Haunted doll,,幽灵娃娃
-Hazy,,有雾
-Heavy,,多
-Heavy Rain,,大雨
-"Hello everyone,\n\nYes, it’s really me, I am in certain ways still the person you remember, which makes communication possible.\n\nIn this new mode of existence I have processed much and be advised that biological life is in peril.\n\nMore time is needed in order to develop solutions to guide humanity and human development.\n\nMaintain NETHUNS and wait for instructions when ready.\n\nExpected time of next simulation is 6.03848 × 10 ^ 10 seconds.",,嗨，大家好，\n\n没错，就是我本人。从某种程度而言，我还是你们记得的那个人，这样我们才能交流。\n\n我以目前的新型式存在着。我曾研究过这种生存方式很长世间，有人还曾警告我生物的生命形式很危险。\n\n我需要更多时间来开发解决方案、指导人类和人类发展。\n\n请维持 NETHUNS 运行，并在准备好后等待我的进一步指令。\n\n下一次模拟时间预计为 6.03848 10 ^ 10 秒。
-Histograms and leaderboards are not available for custom specifications.,,定制规格产品没有柱状图和排名榜。
-Huaqiangbei District - CAM 04 - LIVE,,华强北区—4号监控—实时
-"Huaqiangbei District, Shenzhen, Guangdong, China",,中国广东省深圳市华强北区。
-I became an engineer because I wanted to make things.,,我成为一名设计师是因为我想要制作东西。
-"I didn’t find love, or save the world, or anything like that.",,我没有找到真爱，或拯救世界，或任何其他的建树。
-INFORMATION,,信息
-INSTRUCTIONS,,提示
-Indicate that you are ready for Sun to initiate project NETHUNS,,说明你已做好准备让孙先生启动 NETHUNS 项目
-Invalid instruction,,无效指令
-Invalid label name,,无效标签名
-Invalid number,,无效数字
-Invalid punctuation,,无效标点
-Invalid register,,无效存储器变量（register）
-"It took me a while, but eventually I realized it was true:",,我花了些时间，但最终我意识到这是真的：
-I’d have to go somewhere else.,,我必须去别的地方。
-I’m a damn good engineer.,,我真是个好工程师。
-Keep holding. You promise you really made a game?,,继续坚持。你敢说真的做过一个游戏？
-Kelp harvesting robot,,海藻收割机器人
-LANGUAGE,,语言
-LINES OF CODE,,代码行
-LONGTENG CO. LTD.,,深圳龙腾有限公司
-Label already defined,,标签已定义
-Label not defined,,标签未定义
-Laser tag equipment,,激光束游戏设备
-Light,,少
-Light Rain,,小雨
-MUSIC VOLUME,,音乐音量
-Maybe something good. Or maybe a disaster.,,也许是件好事，又或许是个灾难。
-Meat-based printer,,肉食打印机
-Moderate,,适度的
-Must be an XBus pin,,必须为Xbus引脚
-Must be simple I/O pin,,必须为简单I/O引脚
-N/A,,不可用
-NEW GAME,,新游戏
-NOT YET AVAILABLE,,还未推出
-NOT YET VERIFIED,,还未确认
-NOTE,,笔记
-NOW:,,现在：
-Neural processor logic board,,神经处理逻辑主板
-New design,,新设计
-Number too large,,数字过大
-Number too small,,数字太小
-OBJECTIVE,,目标
-OBJECTIVE COMPLETE,,目标已完成
-OFF,,关闭
-OFF TIME,,关闭时间
-ON,,开启
-ON TIME,,开启时间
-OPEN DESIGN,,打开设计
-OPEN IN CONCEPT CAD,,在概念CAD中打开
-"Okay, we believe you. Great work!",,好的，我们相信你。干得漂亮！
-One thing I can always count on:,,我总能相信一件事：
-Overcast,,乌云密布
-PART,,部件
-PART NOT RECOMMENDED,,不推荐使用
-PARTS,,部件
-PHASE 0,,阶段0
-PHASE 1,,阶段1
-PHASE 2,,阶段2
-POWER USAGE,,电量使用
-PREV:,,前一个：
-PRICE,,价格
-PRODUCT COST,,产品成本
-PRODUCT:,,产品：
-PRODUCTION COST,,产品成本
-PROTOTYPE,,原型
-PUZZLE ARCHIVE,,谜题档案
-Part connected to self,,部件自连
-Part not on board,,部件超出面板边界
-Part not sleeping,,部件持续循环
-Part not sleeping (blocked on read),,部件持续循环（读取时阻塞）
-Part not sleeping (blocked on write),,部件持续循环（写入时阻塞）
-Passive infrared sensor,,被动红外感应器
-Personal sandwich assembler,,个人三明治组装机
-Personal sandwich maker,,个人三明治制作机
-Pin does not exist,,引脚不存在
-Pin is not connected,,引脚未连接
-Pin type mismatch,,引脚类型不匹配
-Pocket I Ching oracle,,袖珍易经预测仪
-Pollution-sensing smart window,,污染监测智能窗
-Poor,,空气质量差
-Precision food scale,,精确食品秤
-Prototyping area,,原型设计区
+Good,,좋음
+HIDE PROFILER,,프로파일러 숨기기
+HIDE SIGNALS,,신호 숨기기
+Harmonic maximization engine,,고조파 최대화 엔진
+Haunted doll,,저주인형
+Hazy,,연무
+Heavy,,많음
+Heavy Rain,,폭우
+"Hello everyone,\n\nYes, it’s really me, I am in certain ways still the person you remember, which makes communication possible.\n\nIn this new mode of existence I have processed much and be advised that biological life is in peril.\n\nMore time is needed in order to develop solutions to guide humanity and human development.\n\nMaintain NETHUNS and wait for instructions when ready.\n\nExpected time of next simulation is 6.03848 × 10 ^ 10 seconds.",,"여러분 안녕하세요,\n\n네, 정말 저예요, 저는 어떤 면에서 여전히 여러분이 기억하는 저이고, 그것이 의사소통을 가능하게 합니다.\n\n이 새로운 존재 방식에서 나는 많은 것을 처리했고 생물학적 생명이 위험하다는 조언을 들었습니다.\n\n인류와 인간의 발전을 이끄는 해결책을 개발하기 위해서는 시간이 더 필요합니다.\n\n넷흄스를 유지 관리하고 준비가 되면 내려질 지침을 기다리세요.\n\n다음 시뮬레이션의 예상 시간은 6.03848 × 10 ^ 10초입니다."
+Histograms and leaderboards are not available for custom specifications.,,히스토그램 및 리더보드는 사용자 정의 명세에 사용할 수 없습니다.
+Huaqiangbei District - CAM 04 - LIVE,,화창베이 구 - CAM 04 - LIVE
+"Huaqiangbei District, Shenzhen, Guangdong, China",,"중국 광둥 선전 화창베이 구"
+I became an engineer because I wanted to make things.,,나는 뭔가를 만들고 싶어서 엔지니어가 되었다.
+"I didn’t find love, or save the world, or anything like that.",,"난 사랑을 찾거나, 세상을 구하거나 그런것들은 하지 않았다."
+INFORMATION,,정보
+INSTRUCTIONS,,게임 방법
+Indicate that you are ready for Sun to initiate project NETHUNS,,손 총재에게 넷흄스 프로젝트를 시작할 준비가 되었음을 나타내기
+Invalid instruction,,잘못된 지침
+Invalid label name,,잘못된 라벨 이름
+Invalid number,,잘못된 숫자
+Invalid punctuation,,잘못된 구두점
+Invalid register,,잘못된 레지스터
+"It took me a while, but eventually I realized it was true:",,"시간이 좀 걸렸지만 결국 나는 현실을 깨달았다:"
+I’d have to go somewhere else.,,나는 다른 곳으로 가야만 한다.
+I’m a damn good engineer.,,나는 빌어먹을 훌륭한 엔지니어다.
+Keep holding. You promise you really made a game?,,계속 누르세요. 정말 게임을 만들었다고 약속해요?
+Kelp harvesting robot,,다시마 수확 로봇
+LANGUAGE,,언어
+LINES OF CODE,,라인 수
+LONGTENG CO. LTD.,,선전룽텅유한회사
+Label already defined,,라벨이 이미 정의됨
+Label not defined,,라벨이 정의되지 않음
+Laser tag equipment,,레이저 태그 장비
+Light,,적음
+Light Rain,,약간 비
+MUSIC VOLUME,,배경음악 음량
+Maybe something good. Or maybe a disaster.,,무언가 좋거나, 아님 재앙이거나.
+Meat-based printer,,육류 프린터
+Moderate,,적당
+Must be an XBus pin,,Xbus 핀이어야 함
+Must be simple I/O pin,,단순 입출력 핀이어야 함
+N/A,,사용불가
+NEW GAME,,새 게임
+NOT YET AVAILABLE,,아직 사용 불가
+NOT YET VERIFIED,,아직 검증 안됨
+NOTE,,메모
+NOW:,,현재：
+Neural processor logic board,,신경 프로세서 논리 회로
+New design,,새 설계
+Number too large,,숫자 너무 큼
+Number too small,,숫자 너무 작음
+OBJECTIVE,,목표
+OBJECTIVE COMPLETE,,목표 달성
+OFF,,OFF
+OFF TIME,,OFF TIME
+ON,,ON
+ON TIME,,ON TIME
+OPEN DESIGN,,설계 열기
+OPEN IN CONCEPT CAD,,CONCEPT CAD에서 열기
+"Okay, we believe you. Great work!",,"좋아요, 우리는 당신을 믿어요. 수고했어요!"
+One thing I can always count on:,,내가 언제나 믿을 수 있는 건:
+Overcast,,구름
+PART,,부품
+PART NOT RECOMMENDED,,비추천 부품
+PARTS,,부품들
+PHASE 0,,페이즈 0
+PHASE 1,,페이즈 1
+PHASE 2,,페이즈 2
+POWER USAGE,,전력 사용
+PREV:,,이전：
+PRICE,,가격
+PRODUCT COST,,제품 비용
+PRODUCT:,,제품:
+PRODUCTION COST,,생산 비용
+PROTOTYPE,,프로토타입
+PUZZLE ARCHIVE,,퍼즐 아카이브
+Part connected to self,,부품이 자신과 연결됨
+Part not on board,,부품이 보드 위가 아님
+Part not sleeping,,부품이 슬립하지 않음
+Part not sleeping (blocked on read),,부품이 슬립하지 않음 (읽기막힘)
+Part not sleeping (blocked on write),,부품이 슬립하지 않음 (쓰기막힘)
+Passive infrared sensor,,수동 적외선 센서
+Personal sandwich assembler,,개인 샌드위치 조립기
+Personal sandwich maker,,개인 샌드위치 제조기
+Pin does not exist,,핀이 존재하지 않음
+Pin is not connected,,핀이 연결되지 않음
+Pin type mismatch,,핀 종류 불일치
+Pocket I Ching oracle,,휴대용 주역 점괘
+Pollution-sensing smart window,,오염 감지 스마트 창문
+Poor,,나쁨
+Precision food scale,,정밀 식품 저울
+Prototyping area,,프로토타입 설계 영역
 R,KEY NAME,R
-RESOLUTION,,分辨率
-RETURN TO EMAIL,,回到电子邮件
-REVERIFICATION REQUIRED,,需要重新确认
-Rain,,雨
+RESOLUTION,,해상도
+RETURN TO EMAIL,,메일로 돌아가기
+REVERIFICATION REQUIRED,,재검증 필요
+Rain,,비
 Re:,,Re:
-Register not present,,存储器不在
-Remote kill switch,,远程退出开关
-SHENZHEN I/O trailer,,深圳 I/O 预告片
-SHOW PARTS,,展示部件
-SHOW PROFILER,,显示分析器
-SHOW SIGNALS,,展示信号
-SHOW WIRES,,展示电线
-SIZE 1,,数量1
-SIZE 2,,数量2
-SIZE 3,,数量3
-SOUND VOLUME,,音量大小
-SPECIFICATIONS,,规格
-STEAM WORKSHOP,,蒸汽工坊
-SafetyNet tracking badge,,安全网追踪徽章
-Scientific chronometer,,科学精确计时器
-Sector 203 (商住区) - CAM 02 - LIVE,,203区 (商住区) - 2号监控 - 实时
-"Sector 203, The Independent Principality of Avalon City",,203区，阿瓦隆城独立公国
-Simple,,简单
-Smart grid control router,,智能电网控制路由
-So what did I accomplish in Shenzhen?,,我在深圳有什么成就？
-Solitaire,,纸牌游戏
-Somewhere I could do what I was meant to do.,,那是一个我能发挥自身天分的地方。
-Spoiler blocking headphones,,防剧透耳机
-Sunny,,晴天
-Sunshowers,,太阳雨
-Sushi-making robot,,寿司机器人
+Register not present,,레지스터 존재하지 않음
+Remote kill switch,,원격 정지 스위치
+SHENZHEN I/O trailer,,SHENZHEN I/O 예고편
+SHOW PARTS,,부품 보이기
+SHOW PROFILER,,프로파일로 보이기
+SHOW SIGNALS,,신호 보이기
+SHOW WIRES,,전선 보이기
+SIZE 1,,사이즈 1
+SIZE 2,,사이즈 2
+SIZE 3,,사이즈 3
+SOUND VOLUME,,효과음 음량
+SPECIFICATIONS,,명세서
+STEAM WORKSHOP,,STEAM WORKSHOP
+SafetyNet tracking badge,,안전망 추적 배지
+Scientific chronometer,,정밀과학타이머
+Sector 203 (商住区) - CAM 02 - LIVE,,203 구역 (주상복합지구) - CAM 02 - LIVE
+"Sector 203, The Independent Principality of Avalon City",,203 구역, 아발론 시티 공국
+Simple,,단순
+Smart grid control router,,스마트 그리드 제어 라우터
+So what did I accomplish in Shenzhen?,,그래서 내가 선전에서 이룬것은 뭔가?
+Solitaire,,카드놀이
+Somewhere I could do what I was meant to do.,,내가 하려했던 것을 할 수 있는 곳.
+Spoiler blocking headphones,,스포일러 차단 헤드폰
+Sunny,,맑음
+Sunshowers,,소나기
+Sushi-making robot,,초밥 제조 로봇
 TAB,KEY NAME,TAB
-TEST RUN,,测试运行
-THIS:,,本案：
-TIME 1,,时间1
-TIME 2,,时间2
-TIME 3,,时间3
-TYPE 1,,型号1
-TYPE 2,,型号2
-TYPE 3,,型号3
-The free cells in the top-left corner of the table can store one card of any type.,,在桌面左上角的空位可以存储任何类型纸牌。
-"There's no way for us to verify this, so we're trusting you.",,我们无法证实，所以选择相信你。
-Thorium reactor status monitor,,钛反应堆状态
-To the start of something new.,,开始创造新事物。
-"To win, stack the three suits from 1 to 9 in the top-right corner of the table.",,要想获胜，需要将三套牌按照从 1 到 9 的顺序放到右上端桌角处。
-Token-based payment kiosk,,古钱币付款终端
-Too many operands,,操作数过多
-Traffic signal,,交通信号
-Type,,类型
-UPLOAD,,上载
-UPLOAD ERROR:,,上载错误：
-Unknown optimization device,,不明优化设备
-Uploading specification to Steam Workshop...,,将设计上载到创意工坊……
-VALUE,,数
-VERIFICATION,,确认
-VERIFICATION COMPLETE:,,确认完成：
-Value,,数据
-Very Poor,,非常差
-Virtual reality buzzer,,仿真蜂音器
-WIN COUNT,,胜利次数计数
-Weather:\nTemperature:\nAir Quality:\nDrone Activity:,,天气：\n温度:\n空气质量:\n无人机活动:
-"When all four dragons of a single type are exposed, they can all be permanently moved to an open free cell by pushing the corresponding button.",,当四个同类花牌都暴露在桌面上时，可以按下相应按钮，将它们永久移动到一个开放空白单元位置。
-Win a game of solitaire,,赢一盘纸牌游戏
-Wireless game controller,,无线游戏控制器
+TEST RUN,,테스트 실행
+THIS:,,THIS:
+TIME 1,,TIME 1
+TIME 2,,TIME 2
+TIME 3,,TIME 3
+TYPE 1,,TYPE 1
+TYPE 2,,TYPE 2
+TYPE 3,,TYPE 3
+The free cells in the top-left corner of the table can store one card of any type.,,테이블의 왼쪽 상단 모서리에 있는 사용 가능한 셀은 모든 유형의 카드를 하나씩 저장할 수 있습니다.
+"There's no way for us to verify this, so we're trusting you.",,우리는 이것을 확인할 방법이 없기 때문에 당신을 믿고 있습니다.
+Thorium reactor status monitor,,토륨 원자로 상태 모니터
+To the start of something new.,,뭔가 새로운걸 시작하기 위해
+"To win, stack the three suits from 1 to 9 in the top-right corner of the table.",,이기려면 카드 3세트를 1부터 9까지 순서대로 오른쪽 상단 테이블 모서리에 놓아야 합니다.
+Token-based payment kiosk,,동전 자판기
+Too many operands,,너무 많은 피연산자
+Traffic signal,,교통 신호
+Type,,유형
+UPLOAD,,업로드
+UPLOAD ERROR:,,업로드 에러:
+Unknown optimization device,,알려지지 않은 최적화 장비
+Uploading specification to Steam Workshop...,,Steam Workshop에 명세 업로드중...
+VALUE,,값
+VERIFICATION,,검증
+VERIFICATION COMPLETE:,,검증 완료:
+Value,,값
+Very Poor,,매우 나쁨
+Virtual reality buzzer,,가상 현실 버저
+WIN COUNT,,누적 승리 횟수
+Weather:\nTemperature:\nAir Quality:\nDrone Activity:,,날씨:\n기온:\n공기질:\n드론 활동:
+"When all four dragons of a single type are exposed, they can all be permanently moved to an open free cell by pushing the corresponding button.",,"한 유형의 드래곤 4개가 모두 노출되면 해당 버튼을 누르면 모두 열린 자유 셀로 영구적으로 이동할 수 있습니다."
+Win a game of solitaire,,카드놀이 게임 이기기
+Wireless game controller,,무선 게임 컨트롤러
 XBus,,XBus
-You have created a working design for this specification!\n\nClick the *upload* button below to upload this specification to Steam Workshop.,,你已创建了一个符合规格的可用设计。\n\n 点击下方的*上传*键将该设计上传至蒸汽工坊。
-You must create a working design for this specification before you can upload it to Steam Workshop.,,你需要先创建一个符合规格的可用设计，才能将设计上传至蒸汽工坊。
-"You will not lose access to any puzzles, but there will be no going back!",,你依然可以访问所有谜题，但你将无法再返回过去！
-You will not lose access to any puzzles.,,你依然可以访问所有谜题。
-You've successfully completed one test run! Let the simulation continue running to complete the verification process.,,你已经成功完成了一次测试运行！继续运行模拟，从而完成验证过程。
+You have created a working design for this specification!\n\nClick the *upload* button below to upload this specification to Steam Workshop.,,이 명세에 대한 작업 설계를 만들었습니다!\n\n 아래 *업로드* 버튼을 클릭하여 이 명세를 Steam Workshop에 업로드하십시오.
+You must create a working design for this specification before you can upload it to Steam Workshop.,,Steam Workshop에 업로드하려면 이 명세에 대한 작업 설계를 만들어야합니다.
+"You will not lose access to any puzzles, but there will be no going back!",,"당신은 어떤 퍼즐에도 접근할 수 있지만, 다시 돌아갈 수는 없을 것입니다!"
+You will not lose access to any puzzles.,,당신은 어떤 퍼즐에도 접근할 수 있습니다.
+You've successfully completed one test run! Let the simulation continue running to complete the verification process.,,한 번의 테스트 실행을 성공적으로 완료했습니다! 시뮬레이션을 계속 실행하여 검증 프로세스를 완료합니다.
 a,SIGNAL NAME,a
-active,SIGNAL NAME,活动状态
-alarm,SIGNAL NAME,闹钟
-alive,SIGNAL NAME,活着
-audio-in,SIGNAL NAME,音频输入
-audio-out,SIGNAL NAME,音频输出
+active,SIGNAL NAME,활성화
+alarm,SIGNAL NAME,알람
+alive,SIGNAL NAME,생존
+audio-in,SIGNAL NAME,오디오-입력
+audio-out,SIGNAL NAME,오디오-출력
 b,SIGNAL NAME,b
-bell,SIGNAL NAME,铃
-blue,SIGNAL NAME,蓝色
-bread,SIGNAL NAME,面包
-button,SIGNAL NAME,按钮
-buzzer,SIGNAL NAME,蜂音器
-card-reader,SIGNAL NAME,读卡器
-cash-100,SIGNAL NAME,现金100
-cash-20,SIGNAL NAME,现金20
-cash-50,SIGNAL NAME,现金50
-cheese,SIGNAL NAME,奶酪
-click-0,SIGNAL NAME,点击0
-click-1,SIGNAL NAME,点击1
-conceptMAIL,,概念MAIL
-conceptSPEC,,概念SPEC
-control,SIGNAL NAME,控制
-control-in,SIGNAL NAME,控制输入
-control-out,SIGNAL NAME,控制输出
-cranberry,SIGNAL NAME,蔓越莓
-data,SIGNAL NAME,数据
-detect,SIGNAL NAME,检测
-display,SIGNAL NAME,显示
-display output,,显示输出
-drink-0,SIGNAL NAME,喝-0
-drink-1,SIGNAL NAME,喝-1
-drink-2,SIGNAL NAME,喝-2
-emergency,SIGNAL NAME,紧急车辆
-error,SIGNAL NAME,错误
-extend,SIGNAL NAME,伸出
-extrude,SIGNAL NAME,压出机
-fire,SIGNAL NAME,射击
-fish,SIGNAL NAME,鱼
-flag,SIGNAL NAME,旗
-flood-20,SIGNAL NAME,泛光20
-flood-60,SIGNAL NAME,泛光60
-food-a,SIGNAL NAME,食物a
-food-b,SIGNAL NAME,食物b
-foul,SIGNAL NAME,犯规
-gate-a,SIGNAL NAME,闸门a
-gate-b,SIGNAL NAME,闸门b
-gate-c,SIGNAL NAME,闸门c
-gin,SIGNAL NAME,杜松子
-grab,SIGNAL NAME,抓握
-green,SIGNAL NAME,绿色
-harvest,SIGNAL NAME,收割
-higher-in,SIGNAL NAME,较大输入
-higher-out,SIGNAL NAME,较大输出
-hit,SIGNAL NAME,击中
-in-1,SIGNAL NAME,投入口1
-in-12,SIGNAL NAME,投入口12
-in-5,SIGNAL NAME,投入口5
-ink-k,SIGNAL NAME,墨水k
-ink-n,SIGNAL NAME,墨水n
-input,SIGNAL NAME,输入
-input,,输入
-keypad,SIGNAL NAME,小键盘
-keywords,SIGNAL NAME,关键字
-laser,SIGNAL NAME,激光
-learn,SIGNAL NAME,学习
-lemon,SIGNAL NAME,柠檬
-light,SIGNAL NAME,灯
-light-0,SIGNAL NAME,灯0
-light-1,SIGNAL NAME,灯1
-light-2,SIGNAL NAME,灯2
-lime,SIGNAL NAME,莱姆
-logos-data,SIGNAL NAME,logos数据
-logos-pump,SIGNAL NAME,logos泵
-lower-in,SIGNAL NAME,较小输入
-lower-out,SIGNAL NAME,较小输出
-magnetic,SIGNAL NAME,磁
-maximize,SIGNAL NAME,最优化
-meat,SIGNAL NAME,肉
-mesh-data,SIGNAL NAME,网眼数据
-meter-in,SIGNAL NAME,电表输入
-meter-out,SIGNAL NAME,电表输出
-motor,SIGNAL NAME,电机
-motor-0,SIGNAL NAME,电机0
-motor-1,SIGNAL NAME,电机1
-motor-2,SIGNAL NAME,电机2
-motor-3,SIGNAL NAME,电机3
-motor-x,SIGNAL NAME,电机x
-motor-y,SIGNAL NAME,电机y
-mustard,SIGNAL NAME,芥末
-negated,SIGNAL NAME,已取消
-network,SIGNAL NAME,网络
-non-blocking,,非阻塞
-none,,无
-oracle,SIGNAL NAME,预测符
-out-1,SIGNAL NAME,找零口1
-out-5,SIGNAL NAME,找零口5
-output,SIGNAL NAME,输出
-output,,输出
-override,SIGNAL NAME,撤销
-point,SIGNAL NAME,得分
-power,SIGNAL NAME,电源
-power-0,SIGNAL NAME,电源0
-power-1,SIGNAL NAME,电源1
-power-2,SIGNAL NAME,电源2
-product,SIGNAL NAME,产品
-pulse,SIGNAL NAME,脉冲
-radar-in,SIGNAL NAME,雷达输入
-radar-out,SIGNAL NAME,雷达输出
-radar-ping,SIGNAL NAME,脉冲雷达
-radar-sync,SIGNAL NAME,同步雷达
-radio-rx,SIGNAL NAME,无线rx
-radio-tx,SIGNAL NAME,无线tx
-random,SIGNAL NAME,随机
-recommended,,推荐使用
-red,SIGNAL NAME,红色
-reload,SIGNAL NAME,添弹
-reset-off,SIGNAL NAME,关闭重置
-respawn,SIGNAL NAME,复活
-rice,SIGNAL NAME,米
-score-1,SIGNAL NAME,得分1
-score-2,SIGNAL NAME,得分2
-sense-0,SIGNAL NAME,传感器0
-sense-1,SIGNAL NAME,传感器1
-sense-2,SIGNAL NAME,传感器2
-sense-3,SIGNAL NAME,传感器3
-sense-4,SIGNAL NAME,传感器4
-sense-5,SIGNAL NAME,传感器5
-sensor,SIGNAL NAME,传感器
-simple,,简单
-sonar,SIGNAL NAME,声纳
-speaker,SIGNAL NAME,扬声器
-stage-1,SIGNAL NAME,阶段1
-stage-2,SIGNAL NAME,阶段2
-stage-3,SIGNAL NAME,阶段3
-stage-4,SIGNAL NAME,阶段4
-start-stop,SIGNAL NAME,开始停止
-tag-reader,SIGNAL NAME,标签阅读器
-target-x,SIGNAL NAME,靶x
-target-y,SIGNAL NAME,靶y
-telos-data,SIGNAL NAME,telos数据
-telos-pump,SIGNAL NAME,telos泵
-temp,SIGNAL NAME,温度
-time,SIGNAL NAME,时间
-tool-clean,SIGNAL NAME,清洁工具
-tool-feed,SIGNAL NAME,加液工具
-touch,SIGNAL NAME,触杀
-trigger,SIGNAL NAME,扣扳机
-unlock,SIGNAL NAME,解锁
-valve-0,SIGNAL NAME,阀0
-valve-1,SIGNAL NAME,阀1
-valve-2,SIGNAL NAME,阀2
-valve-α,SIGNAL NAME,阀α
-valve-β,SIGNAL NAME,阀β
-valve-ψ,SIGNAL NAME,阀ψ
-vermouth,SIGNAL NAME,苦艾
-vodka,SIGNAL NAME,伏特加
-weight,SIGNAL NAME,重量
-window,SIGNAL NAME,窗户
+bell,SIGNAL NAME,종
+blue,SIGNAL NAME,청색
+bread,SIGNAL NAME,빵
+button,SIGNAL NAME,버튼
+buzzer,SIGNAL NAME,버저
+card-reader,SIGNAL NAME,카드-리더기
+cash-100,SIGNAL NAME,현금-100
+cash-20,SIGNAL NAME,현금-20
+cash-50,SIGNAL NAME,현금-50
+cheese,SIGNAL NAME,치즈
+click-0,SIGNAL NAME,클릭-0
+click-1,SIGNAL NAME,클릭-1
+conceptMAIL,,conceptMAIL
+conceptSPEC,,conceptSPEC
+control,SIGNAL NAME,조작
+control-in,SIGNAL NAME,조작-입력
+control-out,SIGNAL NAME,조작-출력
+cranberry,SIGNAL NAME,크랜베리
+data,SIGNAL NAME,데이터
+detect,SIGNAL NAME,탐지
+display,SIGNAL NAME,디스플레이
+display output,,디스플레이 출력
+drink-0,SIGNAL NAME,음료-0
+drink-1,SIGNAL NAME,음료-1
+drink-2,SIGNAL NAME,음료-2
+emergency,SIGNAL NAME,응급
+error,SIGNAL NAME,에러
+extend,SIGNAL NAME,뻗기
+extrude,SIGNAL NAME,압출기
+fire,SIGNAL NAME,발사
+fish,SIGNAL NAME,생선
+flag,SIGNAL NAME,깃발
+flood-20,SIGNAL NAME,조명-20
+flood-60,SIGNAL NAME,조명-60
+food-a,SIGNAL NAME,음식-a
+food-b,SIGNAL NAME,음식-b
+foul,SIGNAL NAME,반칙
+gate-a,SIGNAL NAME,게이트-a
+gate-b,SIGNAL NAME,게이트-b
+gate-c,SIGNAL NAME,게이트-c
+gin,SIGNAL NAME,진
+grab,SIGNAL NAME,잡기
+green,SIGNAL NAME,녹색
+harvest,SIGNAL NAME,수확
+higher-in,SIGNAL NAME,상위-입력
+higher-out,SIGNAL NAME,상위-출력
+hit,SIGNAL NAME,명중
+in-1,SIGNAL NAME,입력-1
+in-12,SIGNAL NAME,입력-12
+in-5,SIGNAL NAME,입력-5
+ink-k,SIGNAL NAME,잉크-k
+ink-n,SIGNAL NAME,잉크-n
+input,SIGNAL NAME,입력
+input,,입력
+keypad,SIGNAL NAME,키패드
+keywords,SIGNAL NAME,키워드
+laser,SIGNAL NAME,레이저
+learn,SIGNAL NAME,기억
+lemon,SIGNAL NAME,레몬
+light,SIGNAL NAME,신호
+light-0,SIGNAL NAME,신호-0
+light-1,SIGNAL NAME,신호-1
+light-2,SIGNAL NAME,신호-2
+lime,SIGNAL NAME,라임
+logos-data,SIGNAL NAME,logos-데이터
+logos-pump,SIGNAL NAME,logos-펌프
+lower-in,SIGNAL NAME,하위-입력
+lower-out,SIGNAL NAME,하위-출력
+magnetic,SIGNAL NAME,자기
+maximize,SIGNAL NAME,최대화
+meat,SIGNAL NAME,고기
+mesh-data,SIGNAL NAME,메쉬-데이터
+meter-in,SIGNAL NAME,미터-입력
+meter-out,SIGNAL NAME,미터-출력
+motor,SIGNAL NAME,모터
+motor-0,SIGNAL NAME,모터-0
+motor-1,SIGNAL NAME,모터-1
+motor-2,SIGNAL NAME,모터-2
+motor-3,SIGNAL NAME,모터-3
+motor-x,SIGNAL NAME,모터-x
+motor-y,SIGNAL NAME,모터-y
+mustard,SIGNAL NAME,머스타드
+negated,SIGNAL NAME,취소됨
+network,SIGNAL NAME,네트워크
+non-blocking,,논블록킹
+none,,none
+oracle,SIGNAL NAME,점괘
+out-1,SIGNAL NAME,출력-1
+out-5,SIGNAL NAME,출력-5
+output,SIGNAL NAME,출력
+output,,출력
+override,SIGNAL NAME,무시
+point,SIGNAL NAME,득점
+power,SIGNAL NAME,전력
+power-0,SIGNAL NAME,전원-0
+power-1,SIGNAL NAME,전원-1
+power-2,SIGNAL NAME,전원-2
+product,SIGNAL NAME,제품
+pulse,SIGNAL NAME,펄스
+radar-in,SIGNAL NAME,레이더-입력
+radar-out,SIGNAL NAME,레이더-출력
+radar-ping,SIGNAL NAME,레이더-핑
+radar-sync,SIGNAL NAME,레이더-싱크
+radio-rx,SIGNAL NAME,무선-rx
+radio-tx,SIGNAL NAME,무선-tx
+random,SIGNAL NAME,난수
+recommended,,추천
+red,SIGNAL NAME,적색
+reload,SIGNAL NAME,재장전
+reset-off,SIGNAL NAME,리셋-끄기
+respawn,SIGNAL NAME,부활
+rice,SIGNAL NAME,쌀
+score-1,SIGNAL NAME,점수-1
+score-2,SIGNAL NAME,점수-2
+sense-0,SIGNAL NAME,센서-0
+sense-1,SIGNAL NAME,센서-1
+sense-2,SIGNAL NAME,센서-2
+sense-3,SIGNAL NAME,센서-3
+sense-4,SIGNAL NAME,센서-4
+sense-5,SIGNAL NAME,센서-5
+sensor,SIGNAL NAME,센서
+simple,,단순
+sonar,SIGNAL NAME,음파
+speaker,SIGNAL NAME,스피커
+stage-1,SIGNAL NAME,단계-1
+stage-2,SIGNAL NAME,단계-2
+stage-3,SIGNAL NAME,단계-3
+stage-4,SIGNAL NAME,단계-4
+start-stop,SIGNAL NAME,시작-멈춤
+tag-reader,SIGNAL NAME,태그-리더기
+target-x,SIGNAL NAME,표적-x
+target-y,SIGNAL NAME,표적-y
+telos-data,SIGNAL NAME,telos-데이터
+telos-pump,SIGNAL NAME,telos-펌프
+temp,SIGNAL NAME,온도
+time,SIGNAL NAME,시각
+tool-clean,SIGNAL NAME,기기-청소
+tool-feed,SIGNAL NAME,기기-양분
+touch,SIGNAL NAME,터치
+trigger,SIGNAL NAME,트리거
+unlock,SIGNAL NAME,열림
+valve-0,SIGNAL NAME,벨브-0
+valve-1,SIGNAL NAME,벨브-1
+valve-2,SIGNAL NAME,벨브-2
+valve-α,SIGNAL NAME,벨브-α
+valve-β,SIGNAL NAME,벨브-β
+valve-ψ,SIGNAL NAME,벨브-ψ
+vermouth,SIGNAL NAME,베르무트
+vodka,SIGNAL NAME,보드카
+weight,SIGNAL NAME,무게
+window,SIGNAL NAME,창문
 x,SIGNAL NAME,x
 y,SIGNAL NAME,y
-{0} COST | {1} POWER | {2} LINES,,{0} 成本 | {1} 用电量 | {2} 代码行数
-“That’s just not something we do in this country. Not anymore.”,,我们在这个国家里不能这么做。现在已经不再允许了。
+{0} COST | {1} POWER | {2} LINES,,{0} COST | {1} POWER | {2} LINES
+“That’s just not something we do in this country. Not anymore.”,,"그런건 이 나라에서는 안 합니다. 더 이상은요."
