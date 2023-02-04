@@ -1,4 +1,9 @@
 # SHENZHEN I/O 한글화
+
+**wizroad3** 님이 fork떠서 작업을 이어 해 주셨습니다.
+노고에 대단히 감사드립니다!
+> https://github.com/wizroad3/shenzhen-io-korean
+
 ## 개요
 Zachtronics 사에서 만든 Shenzhen I/O 의 한글 번역입니다.
 
